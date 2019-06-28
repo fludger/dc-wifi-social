@@ -1,458 +1,6617 @@
-{
-  "type": "FeatureCollection",
+{"type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.039882,
-          38.898321
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.038193,
-          38.901345
-        ]
+        "OBJECTID": 1,
+        "Text_": "PÈRE-MARQUETTE",
+        "Index": "0798-126",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "rue De Drucourt",
+        "RueS": "rue de Bellechasse",
+        "RueE": "rue Marquette",
+        "RueO": "rue de Lanaudière",
+        "N_Jardinet": 125,
+        "Banlieu": null,
+        "SHAPE_Leng": 238.379062648,
+        "SHAPE_Area": 3550.02559997,
+        "Nbacs": 0
       },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Blackfin",
-        "address": "1620 I St NW"
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -77.03195,
-          38.907826
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Churchkey",
-        "address": "1337 14th St NW",
-        "note": "Ask the bartender for the password"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018728,
-          38.902708
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "1025 5th St NW, Washington DC, 20001"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.047745,
-          38.909637
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "SoHo Cafe",
-        "address": "2150 P St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018627,
-          38.899924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Chinatown Coffee Company",
-        "address": "475 H St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04345,
-          38.905342
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Science Club",
-        "address": "1136 19th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.027744,
-          38.929675
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Wonderland Ballroom",
-        "address": "  1101 Kenyon St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031888,
-          38.930366
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Sticky Fingers Bakery",
-        "address": "1370 Park Rd NW, Washington, DC 20010"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.940028,
-          38.954998
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "5331 Baltimore Ave, Hyattsville, MD 20781"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031863,
-          38.917992
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "2021 14th St NW, Washington, DC 20009"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042438,
-          38.921894
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Tryst",
-        "address": "2459 18th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.09089599999999,
-          38.88924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Arlington Pub at Whole Foods Market",
-        "address": "2700 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1080128,
-          38.8801218
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "818 N Quincy St, Arlington, VA 22203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.097225,
-          38.8859
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Northside Social",
-        "address": "3211 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1080128,
-          38.8801218
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "818 N Quincy St, Arlington, VA 22203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0866120204082,
-          38.8627485306122
+          [
+            [
+              297319.03000000026,
+              5044487.61
+            ],
+            [
+              297367.91000000015,
+              5044455.39
+            ],
+            [
+              297333.8700000001,
+              5044404.97
+            ],
+            [
+              297285.26999999955,
+              5044437.15
+            ],
+            [
+              297319.03000000026,
+              5044487.61
+            ]
           ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Twisted Vines Bottleshop & Bistro",
-        "address": "2803 Columbia Pike, Arlington, VA 22204"
+        ]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "Text_": "GEORGES-VANIER",
+        "Index": "0798-002",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Saint-Antoine",
+        "RueS": "rue Saint-Jacques",
+        "RueE": "rue Jean-D'Estrées",
+        "RueO": "rue de la Montagne",
+        "N_Jardinet": 63,
+        "Banlieu": null,
+        "SHAPE_Leng": 236.343355683,
+        "SHAPE_Area": 2922.42029709,
+        "Nbacs": 0
+      },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -77.089559,
-          38.841205
+          [
+            [
+              299589.3071875004,
+              5039456.99234375
+            ],
+            [
+              299567.05015624966,
+              5039424.24015625
+            ],
+            [
+              299546.2201562496,
+              5039437.99015625
+            ],
+            [
+              299546.88999999966,
+              5039439.49015625
+            ],
+            [
+              299547.5401562499,
+              5039441.00015625
+            ],
+            [
+              299548.1501562502,
+              5039442.520156249
+            ],
+            [
+              299548.75015624985,
+              5039444.040156251
+            ],
+            [
+              299549.3101562504,
+              5039445.58015625
+            ],
+            [
+              299549.8501562504,
+              5039447.130156251
+            ],
+            [
+              299550.3601562502,
+              5039448.690156249
+            ],
+            [
+              299550.8401562497,
+              5039450.26
+            ],
+            [
+              299551.30015624966,
+              5039451.83015625
+            ],
+            [
+              299551.7301562503,
+              5039453.42015625
+            ],
+            [
+              299552.13015624974,
+              5039455.01
+            ],
+            [
+              299552.50015624985,
+              5039456.6001562495
+            ],
+            [
+              299552.8401562497,
+              5039458.210156251
+            ],
+            [
+              299553.16015625,
+              5039459.82015625
+            ],
+            [
+              299553.4500000002,
+              5039461.43015625
+            ],
+            [
+              299553.7101562498,
+              5039463.050156251
+            ],
+            [
+              299553.94015625026,
+              5039464.67015625
+            ],
+            [
+              299554.1501562502,
+              5039466.300156251
+            ],
+            [
+              299554.2901562499,
+              5039467.620156251
+            ],
+            [
+              299560.3928124998,
+              5039476.628281251
+            ],
+            [
+              299588.0099999998,
+              5039517.380156251
+            ],
+            [
+              299612.1001562504,
+              5039500.7201562505
+            ],
+            [
+              299613.9601562498,
+              5039493.280156249
+            ],
+            [
+              299589.3071875004,
+              5039456.99234375
+            ]
           ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "4251 Campbell Ave, Arlington, VA 22206"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.045067,
-          38.821598
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "901 Slaters Lane, Alexandria, VA 22314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.012659,
-          38.915561
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Boundary Stone Public House",
-        "address": "116 Rhode Island Ave NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Bistro Bohem",
-        "address": "600 Florida Ave Nw"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02017903327942,
-          38.91535424264446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.011702,
-          38.915533
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Rustik Neighborhood Tavern",
-        "address": "84 T St. NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Old Ebbitt",
-        "address": "675 15th St NW",
-        "note": "Ask the bartender for the WiFi password"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.033644,
-          38.898077
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "bar",
-        "name": "BlackJack",
-        "address": "1612 14th St NW",
-        "note": "WiFi password is blackjack"
+        "OBJECTID": 3,
+        "Text_": "VERSAILLES",
+        "Index": "0798-032",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Saint-Antoine",
+        "RueS": "rue Bonaventure",
+        "RueE": "rue Lucien-L'Allier",
+        "RueO": "rue Versailles",
+        "N_Jardinet": 57,
+        "Banlieu": null,
+        "SHAPE_Leng": 208.927529686,
+        "SHAPE_Area": 2172.43389993,
+        "Nbacs": 0
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -77.031950,
-          38.911532
+          [
+            [
+              299324.51999999955,
+              5039335.96
+            ],
+            [
+              299346.5999999996,
+              5039320.61
+            ],
+            [
+              299340.4299999997,
+              5039312.63
+            ],
+            [
+              299320.3700000001,
+              5039292.48
+            ],
+            [
+              299284.7000000002,
+              5039316.98
+            ],
+            [
+              299284.2599999998,
+              5039319.11
+            ],
+            [
+              299321.86000000034,
+              5039362.78
+            ],
+            [
+              299324.1799999997,
+              5039363.13
+            ],
+            [
+              299337.2400000002,
+              5039354.34
+            ],
+            [
+              299324.51999999955,
+              5039335.96
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0276460,
-          38.9007690
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "Capitol City Brewing Company",
-        "address": "1100 New York Ave NW",
-        "note": "Ask the bartender for the password"
+        "OBJECTID": 4,
+        "Text_": "CENTRE-SUD",
+        "Index": "0798-047",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue La Fontaine",
+        "RueS": "rue Logan",
+        "RueE": "rue De Champlain",
+        "RueO": "rue Alexandre-DeSève",
+        "N_Jardinet": 44,
+        "Banlieu": null,
+        "SHAPE_Leng": 149.105141407,
+        "SHAPE_Area": 1265.71041326,
+        "Nbacs": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300328.15296875034,
+              5042625.4790624995
+            ],
+            [
+              300305.3370312499,
+              5042590.875
+            ],
+            [
+              300292.0059374999,
+              5042599.75796875
+            ],
+            [
+              300289.94265624974,
+              5042596.62078125
+            ],
+            [
+              300278.9000000004,
+              5042603.93
+            ],
+            [
+              300303.7000000002,
+              5042641.78
+            ],
+            [
+              300328.15296875034,
+              5042625.4790624995
+            ]
+          ]
+        ]
       }
     },
-	{
+    {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.036554,
-          38.900201
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "Off The Record",
-        "address": "800 16th St NW"
+        "OBJECTID": 5,
+        "Text_": "DES 50 CITOYENS",
+        "Index": "0798-004",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Ontario",
+        "RueS": "rue La Fontaine",
+        "RueE": "rue Alexandre-De-Sève",
+        "RueO": "rue Plessis",
+        "N_Jardinet": 27,
+        "Banlieu": null,
+        "SHAPE_Leng": 125.646586664,
+        "SHAPE_Area": 830.37595001,
+        "Nbacs": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300182.6299999999,
+              5042609.3
+            ],
+            [
+              300212.5099999998,
+              5042589.61
+            ],
+            [
+              300197.5700000003,
+              5042567.07
+            ],
+            [
+              300176.92,
+              5042580.69
+            ],
+            [
+              300183.76999999955,
+              5042591.06
+            ],
+            [
+              300174.5499999998,
+              5042597.1
+            ],
+            [
+              300182.6299999999,
+              5042609.3
+            ]
+          ]
+        ]
       }
     },
-	{
+    {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.071309,
-          38.919986
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "breadsoda",
-        "address": "2233 Wisconsin Ave NW"
+        "OBJECTID": 6,
+        "Text_": "SAINTE-CATHERINE",
+        "Index": "0798-024",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Robin",
+        "RueS": "boulevard de Maisonneuve",
+        "RueE": "rue Amherst",
+        "RueO": "rue Saint-Thimothée",
+        "N_Jardinet": 36,
+        "Banlieu": null,
+        "SHAPE_Leng": 134.792140613,
+        "SHAPE_Area": 991.977999959,
+        "Nbacs": 16
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300091.8200000003,
+              5042075.54
+            ],
+            [
+              300129.9900000002,
+              5042050.43
+            ],
+            [
+              300118.0599999996,
+              5042032.3
+            ],
+            [
+              300079.88999999966,
+              5042057.38
+            ],
+            [
+              300091.8200000003,
+              5042075.54
+            ]
+          ]
+        ]
       }
     },
-	{
+    {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042084,
-          38.906459
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "St. Arnold's on Jefferson",
-        "address": "1827 Jefferson Pl NW"
+        "OBJECTID": 7,
+        "Text_": "PANET",
+        "Index": "0587-000",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Ontario",
+        "RueS": "rue Duhamel",
+        "RueE": "rue Plessis",
+        "RueO": "rue Panet",
+        "N_Jardinet": 10,
+        "Banlieu": null,
+        "SHAPE_Leng": 86.7845455818,
+        "SHAPE_Area": 382.313642962,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300069.2109375,
+              5042528.56
+            ],
+            [
+              300086.3799999999,
+              5042554.49
+            ],
+            [
+              300096.63999999966,
+              5042547.71
+            ],
+            [
+              300079.4640624998,
+              5042521.785
+            ],
+            [
+              300069.2109375,
+              5042528.56
+            ]
+          ]
+        ]
       }
     },
-	{
+    {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.028620,
-          38.931821
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "Meridian Pint",
-        "address": "3400 11th St NW"
+        "OBJECTID": 8,
+        "Text_": "BALDWIN",
+        "Index": "0798-046",
+        "NomArrond": "Le Plateau-Mont-Royal",
+        "RueN": "rue Rachel",
+        "RueS": "rue Sherbrooke",
+        "RueE": "rue Chapleau",
+        "RueO": "rue Fullum",
+        "N_Jardinet": 45,
+        "Banlieu": null,
+        "SHAPE_Leng": 169.982604578,
+        "SHAPE_Area": 1610.25220002,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299815.47,
+              5043853.89
+            ],
+            [
+              299847.4900000002,
+              5043900.4
+            ],
+            [
+              299870.67,
+              5043884.51
+            ],
+            [
+              299839.3099999996,
+              5043837.52
+            ],
+            [
+              299815.47,
+              5043853.89
+            ]
+          ]
+        ]
       }
     },
-	{
+    {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.070275,
-          38.906094
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Tombs",
-        "address": "1226 36th St NW"
+        "OBJECTID": 9,
+        "Text_": "MÉDÉRIC-MARTIN",
+        "Index": "0798-252",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue de Rouen",
+        "RueS": "rue Ontario",
+        "RueE": "avenue Gascon",
+        "RueO": "rue du havre",
+        "N_Jardinet": 37,
+        "Banlieu": null,
+        "SHAPE_Leng": 143.242686061,
+        "SHAPE_Area": 1269.97392152,
+        "Nbacs": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300594.21,
+              5043872.22
+            ],
+            [
+              300576.53140624985,
+              5043834.19703125
+            ],
+            [
+              300548.9343750002,
+              5043848.352343749
+            ],
+            [
+              300562.5,
+              5043876.04
+            ],
+            [
+              300562.8200000003,
+              5043876.66
+            ],
+            [
+              300563.13999999966,
+              5043877.28
+            ],
+            [
+              300563.48000000045,
+              5043877.9
+            ],
+            [
+              300563.83,
+              5043878.5
+            ],
+            [
+              300564.1900000004,
+              5043879.11
+            ],
+            [
+              300564.5499999998,
+              5043879.7
+            ],
+            [
+              300564.9299999997,
+              5043880.29
+            ],
+            [
+              300565.3200000003,
+              5043880.87
+            ],
+            [
+              300565.72,
+              5043881.45
+            ],
+            [
+              300566.1299999999,
+              5043882.02
+            ],
+            [
+              300566.5499999998,
+              5043882.58
+            ],
+            [
+              300566.98000000045,
+              5043883.13
+            ],
+            [
+              300567.42,
+              5043883.68
+            ],
+            [
+              300567.86000000034,
+              5043884.22
+            ],
+            [
+              300568.3200000003,
+              5043884.75
+            ],
+            [
+              300568.5,
+              5043884.95
+            ],
+            [
+              300594.21,
+              5043872.22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "Text_": "SAINT-EUSÈBE",
+        "Index": "0798-005",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue de Rouen",
+        "RueS": "rue Larivière",
+        "RueE": "rue Dufresne",
+        "RueO": "place Larivière",
+        "N_Jardinet": 34,
+        "Banlieu": null,
+        "SHAPE_Leng": 213.973340224,
+        "SHAPE_Area": 1224.69630001,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300340.9500000002,
+              5043640.56
+            ],
+            [
+              300346.7599999998,
+              5043613.53
+            ],
+            [
+              300351.67,
+              5043606.46
+            ],
+            [
+              300392.13999999966,
+              5043580.67
+            ],
+            [
+              300389.7999999998,
+              5043576.96
+            ],
+            [
+              300388.72,
+              5043577.73
+            ],
+            [
+              300383.25,
+              5043569.26
+            ],
+            [
+              300358.75,
+              5043585.32
+            ],
+            [
+              300358.75,
+              5043585.32
+            ],
+            [
+              300358.7400000002,
+              5043585.4
+            ],
+            [
+              300358.7000000002,
+              5043585.63
+            ],
+            [
+              300358.66000000015,
+              5043585.86
+            ],
+            [
+              300358.61000000034,
+              5043586.09
+            ],
+            [
+              300358.5599999996,
+              5043586.31
+            ],
+            [
+              300358.5,
+              5043586.54
+            ],
+            [
+              300358.4400000004,
+              5043586.77
+            ],
+            [
+              300358.3799999999,
+              5043586.99
+            ],
+            [
+              300358.3099999996,
+              5043587.22
+            ],
+            [
+              300358.2400000002,
+              5043587.44
+            ],
+            [
+              300358.17,
+              5043587.66
+            ],
+            [
+              300358.08999999985,
+              5043587.88
+            ],
+            [
+              300358.0099999998,
+              5043588.1
+            ],
+            [
+              300357.92,
+              5043588.32
+            ],
+            [
+              300357.83,
+              5043588.54
+            ],
+            [
+              300357.7400000002,
+              5043588.75
+            ],
+            [
+              300357.63999999966,
+              5043588.96
+            ],
+            [
+              300357.54,
+              5043589.17
+            ],
+            [
+              300357.4299999997,
+              5043589.38
+            ],
+            [
+              300357.3200000003,
+              5043589.59
+            ],
+            [
+              300357.21,
+              5043589.8
+            ],
+            [
+              300357.08999999985,
+              5043590
+            ],
+            [
+              300356.97,
+              5043590.2
+            ],
+            [
+              300356.8499999996,
+              5043590.4
+            ],
+            [
+              300356.73000000045,
+              5043590.6
+            ],
+            [
+              300356.5999999996,
+              5043590.79
+            ],
+            [
+              300356.46,
+              5043590.98
+            ],
+            [
+              300356.33,
+              5043591.17
+            ],
+            [
+              300356.1900000004,
+              5043591.36
+            ],
+            [
+              300356.04,
+              5043591.55
+            ],
+            [
+              300355.9000000004,
+              5043591.73
+            ],
+            [
+              300355.75,
+              5043591.91
+            ],
+            [
+              300355.58999999985,
+              5043592.09
+            ],
+            [
+              300355.4400000004,
+              5043592.26
+            ],
+            [
+              300355.28000000026,
+              5043592.43
+            ],
+            [
+              300355.1200000001,
+              5043592.6
+            ],
+            [
+              300354.9500000002,
+              5043592.77
+            ],
+            [
+              300354.79,
+              5043592.93
+            ],
+            [
+              300354.6200000001,
+              5043593.09
+            ],
+            [
+              300354.4400000004,
+              5043593.25
+            ],
+            [
+              300354.26999999955,
+              5043593.41
+            ],
+            [
+              300354.08999999985,
+              5043593.56
+            ],
+            [
+              300353.91000000015,
+              5043593.71
+            ],
+            [
+              300353.72,
+              5043593.85
+            ],
+            [
+              300353.54,
+              5043593.99
+            ],
+            [
+              300353.3499999996,
+              5043594.13
+            ],
+            [
+              300353.16000000015,
+              5043594.27
+            ],
+            [
+              300352.96,
+              5043594.4
+            ],
+            [
+              300352.76999999955,
+              5043594.53
+            ],
+            [
+              300352.5700000003,
+              5043594.65
+            ],
+            [
+              300352.3700000001,
+              5043594.77
+            ],
+            [
+              300352.17,
+              5043594.89
+            ],
+            [
+              300351.96,
+              5043595.01
+            ],
+            [
+              300351.7599999998,
+              5043595.12
+            ],
+            [
+              300351.5499999998,
+              5043595.23
+            ],
+            [
+              300351.33999999985,
+              5043595.33
+            ],
+            [
+              300351.1299999999,
+              5043595.43
+            ],
+            [
+              300350.92,
+              5043595.53
+            ],
+            [
+              300350.7000000002,
+              5043595.62
+            ],
+            [
+              300350.48000000045,
+              5043595.71
+            ],
+            [
+              300350.26999999955,
+              5043595.79
+            ],
+            [
+              300350.0499999998,
+              5043595.87
+            ],
+            [
+              300349.83,
+              5043595.95
+            ],
+            [
+              300349.5999999996,
+              5043596.03
+            ],
+            [
+              300349.3799999999,
+              5043596.09
+            ],
+            [
+              300349.16000000015,
+              5043596.16
+            ],
+            [
+              300348.9299999997,
+              5043596.22
+            ],
+            [
+              300348.7000000002,
+              5043596.28
+            ],
+            [
+              300348.48000000045,
+              5043596.33
+            ],
+            [
+              300348.25,
+              5043596.38
+            ],
+            [
+              300348.01999999955,
+              5043596.43
+            ],
+            [
+              300347.79,
+              5043596.47
+            ],
+            [
+              300347.5599999996,
+              5043596.51
+            ],
+            [
+              300347.3200000003,
+              5043596.54
+            ],
+            [
+              300347.08999999985,
+              5043596.57
+            ],
+            [
+              300346.86000000034,
+              5043596.6
+            ],
+            [
+              300346.6299999999,
+              5043596.62
+            ],
+            [
+              300346.38999999966,
+              5043596.64
+            ],
+            [
+              300346.16000000015,
+              5043596.65
+            ],
+            [
+              300345.9299999997,
+              5043596.66
+            ],
+            [
+              300345.6900000004,
+              5043596.67
+            ],
+            [
+              300345.46,
+              5043596.67
+            ],
+            [
+              300345.22,
+              5043596.67
+            ],
+            [
+              300344.9900000002,
+              5043596.66
+            ],
+            [
+              300344.7599999998,
+              5043596.65
+            ],
+            [
+              300344.51999999955,
+              5043596.63
+            ],
+            [
+              300344.29,
+              5043596.61
+            ],
+            [
+              300344.0599999996,
+              5043596.59
+            ],
+            [
+              300343.8200000003,
+              5043596.56
+            ],
+            [
+              300343.58999999985,
+              5043596.53
+            ],
+            [
+              300343.36000000034,
+              5043596.5
+            ],
+            [
+              300343.1299999999,
+              5043596.46
+            ],
+            [
+              300342.9000000004,
+              5043596.41
+            ],
+            [
+              300342.67,
+              5043596.37
+            ],
+            [
+              300342.4400000004,
+              5043596.31
+            ],
+            [
+              300342.21,
+              5043596.26
+            ],
+            [
+              300341.9900000002,
+              5043596.2
+            ],
+            [
+              300341.7599999998,
+              5043596.14
+            ],
+            [
+              300341.7599999998,
+              5043596.14
+            ],
+            [
+              300336.3200000003,
+              5043599.83
+            ],
+            [
+              300323.1799999997,
+              5043608.86
+            ],
+            [
+              300331.42,
+              5043621.71
+            ],
+            [
+              300328.83,
+              5043623.52
+            ],
+            [
+              300340.9500000002,
+              5043640.56
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "Text_": "SAINTE-MARIE",
+        "Index": "0798-047",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue La Fontaine",
+        "RueS": "rue Logan",
+        "RueE": "rue Dufresne",
+        "RueO": "rue de Fullum",
+        "N_Jardinet": 75,
+        "Banlieu": null,
+        "SHAPE_Leng": 165.129225332,
+        "SHAPE_Area": 1348.86109995,
+        "Nbacs": 20
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300750.92,
+              5043300.04
+            ],
+            [
+              300801.5499999998,
+              5043267.49
+            ],
+            [
+              300789.0099999998,
+              5043248.89
+            ],
+            [
+              300738.48000000045,
+              5043281.36
+            ],
+            [
+              300750.92,
+              5043300.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "Text_": "HOCHELAGA",
+        "Index": "0798-039",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue Ontario",
+        "RueS": "rue la Fontaine",
+        "RueE": "rue Aylwin",
+        "RueO": "rue Cuvillier",
+        "N_Jardinet": 27,
+        "Banlieu": null,
+        "SHAPE_Leng": 155.327299093,
+        "SHAPE_Area": 909.11605,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              301355.1500000004,
+              5044882.81
+            ],
+            [
+              301364.63999999966,
+              5044878.81
+            ],
+            [
+              301367.4000000004,
+              5044874.52
+            ],
+            [
+              301342.91000000015,
+              5044817.81
+            ],
+            [
+              301330.28000000026,
+              5044823.52
+            ],
+            [
+              301355.1500000004,
+              5044882.81
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "Text_": "MAISONNEUVE",
+        "Index": "0798-008",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue de Rouen",
+        "RueS": "rue Ontario",
+        "RueE": "avenue Bennett",
+        "RueO": "avenue Letourneux",
+        "N_Jardinet": 236,
+        "Banlieu": null,
+        "SHAPE_Leng": 380.682326108,
+        "SHAPE_Area": 7773.45439986,
+        "Nbacs": 12
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              301444.6900000004,
+              5046009.3
+            ],
+            [
+              301469.16000000015,
+              5046063.37
+            ],
+            [
+              301591.67,
+              5046005.74
+            ],
+            [
+              301570.9900000002,
+              5045962.06
+            ],
+            [
+              301559.01999999955,
+              5045958.47
+            ],
+            [
+              301444.6900000004,
+              5046009.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "Text_": "BASILE-PATENAUDE",
+        "Index": "0798-012",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "place Basile-Patenaud",
+        "RueS": "rue Masson",
+        "RueE": "1re avenue",
+        "RueO": "rue D'Iberville",
+        "N_Jardinet": 77,
+        "Banlieu": null,
+        "SHAPE_Leng": 232.333933006,
+        "SHAPE_Area": 2046.99220272,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298712.83078125026,
+              5044987.31265625
+            ],
+            [
+              298670.92,
+              5044905.42
+            ],
+            [
+              298660.0099999998,
+              5044937.55
+            ],
+            [
+              298693.7578125,
+              5045004.496874999
+            ],
+            [
+              298704.50906249974,
+              5044999.069375
+            ],
+            [
+              298701.4545312496,
+              5044993.2790625
+            ],
+            [
+              298712.83078125026,
+              5044987.31265625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "Text_": "DE LORIMIER",
+        "Index": "0798-050",
+        "NomArrond": "Le Plateau-Mont-Royal",
+        "RueN": "rue Gilford",
+        "RueS": "avenue du Mont-Royal",
+        "RueE": "avenue de Lorimier",
+        "RueO": "rue de Bordeaux",
+        "N_Jardinet": 119,
+        "Banlieu": null,
+        "SHAPE_Leng": 245.669711683,
+        "SHAPE_Area": 3629.45529997,
+        "Nbacs": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298877.4299999997,
+              5044077.68
+            ],
+            [
+              298938.7400000002,
+              5044036.59
+            ],
+            [
+              298910.38999999966,
+              5043995.05
+            ],
+            [
+              298850.7599999998,
+              5044036.92
+            ],
+            [
+              298877.4299999997,
+              5044077.68
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "Text_": "RIVARD",
+        "Index": "0231-000",
+        "NomArrond": "Le Plateau-Mont-Royal",
+        "RueN": "rue Gilford",
+        "RueS": "rue De Bienville",
+        "RueE": "rue Rivard",
+        "RueO": "rue Saint-Denis",
+        "N_Jardinet": 29,
+        "Banlieu": null,
+        "SHAPE_Leng": 136.609817552,
+        "SHAPE_Area": 1002.11825,
+        "Nbacs": 29
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298155.0099999998,
+              5042863.47
+            ],
+            [
+              298194.54,
+              5042838.09
+            ],
+            [
+              298183.0099999998,
+              5042820.14
+            ],
+            [
+              298143.4900000002,
+              5042845.51
+            ],
+            [
+              298155.0099999998,
+              5042863.47
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "Text_": "ÉTIENNE-DESMARTEAU",
+        "Index": "0798-206",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "rue de Bellechasse",
+        "RueS": "boulevard Rosemont",
+        "RueE": "18e avenue",
+        "RueO": "16e avenue",
+        "N_Jardinet": 147,
+        "Banlieu": null,
+        "SHAPE_Leng": 359.51296095,
+        "SHAPE_Area": 5142.80159873,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298675.53000000026,
+              5046499.59
+            ],
+            [
+              298680.8185937498,
+              5046497.254375
+            ],
+            [
+              298675.9392187502,
+              5046487.97609375
+            ],
+            [
+              298694.5085937502,
+              5046480.069062499
+            ],
+            [
+              298699.05421875045,
+              5046489.200625
+            ],
+            [
+              298762.5,
+              5046461.18
+            ],
+            [
+              298752.0700000003,
+              5046439.69
+            ],
+            [
+              298750.36000000034,
+              5046435.99
+            ],
+            [
+              298747.5999999996,
+              5046437.27
+            ],
+            [
+              298725.66000000015,
+              5046394.71
+            ],
+            [
+              298688.04,
+              5046414
+            ],
+            [
+              298702.92,
+              5046438.1
+            ],
+            [
+              298661.83999999985,
+              5046463.34
+            ],
+            [
+              298655.26999999955,
+              5046467.26
+            ],
+            [
+              298675.53000000026,
+              5046499.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "Text_": "DU CARREFOUR",
+        "Index": "0798-021",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "boulevard Rosemont",
+        "RueS": "rue Dandurand",
+        "RueE": "14e avenue",
+        "RueO": "5675 rue Lafond",
+        "N_Jardinet": 16,
+        "Banlieu": null,
+        "SHAPE_Leng": 231.037224142,
+        "SHAPE_Area": 1788.88617137,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298802.04,
+              5046062.11
+            ],
+            [
+              298794.0499999998,
+              5046043.11
+            ],
+            [
+              298786.33,
+              5046046.29
+            ],
+            [
+              298796.0599999996,
+              5046068.89
+            ],
+            [
+              298790.97,
+              5046071.06
+            ],
+            [
+              298793.7424999997,
+              5046077.682812501
+            ],
+            [
+              298799.37203125004,
+              5046075.13828125
+            ],
+            [
+              298803.51968749985,
+              5046084.794062501
+            ],
+            [
+              298797.8278125003,
+              5046087.17796875
+            ],
+            [
+              298800.4900000002,
+              5046093.62
+            ],
+            [
+              298856.01999999955,
+              5046070
+            ],
+            [
+              298844.8499999996,
+              5046044.15
+            ],
+            [
+              298802.04,
+              5046062.11
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "Text_": "DE LA PETITE-BOURGOGNE",
+        "Index": "0798-029",
+        "NomArrond": "Le Sud-Ouest",
+        "RueN": "rue Blake",
+        "RueS": "rue Quesnel",
+        "RueE": "boulevard Georges-Vanier",
+        "RueO": "rue du Dominion",
+        "N_Jardinet": 30,
+        "Banlieu": null,
+        "SHAPE_Leng": 162.214944322,
+        "SHAPE_Area": 1107.88430001,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298878.6799999997,
+              5038638.33
+            ],
+            [
+              298889.79,
+              5038625.24
+            ],
+            [
+              298841.33999999985,
+              5038583.69
+            ],
+            [
+              298830.11000000034,
+              5038597.25
+            ],
+            [
+              298878.6799999997,
+              5038638.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "Text_": "LA LÉGUMIÈRE ROSE-DE-LIMA",
+        "Index": "0798-377",
+        "NomArrond": "Le Sud-Ouest",
+        "RueN": "rue Saint-Jacques",
+        "RueS": "rue Delisle",
+        "RueE": "avenue Greene",
+        "RueO": "rue Rose-de-Lima",
+        "N_Jardinet": 88,
+        "Banlieu": null,
+        "SHAPE_Leng": 204.822329453,
+        "SHAPE_Area": 2558.43404998,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298499.46,
+              5038008.33
+            ],
+            [
+              298531.0099999998,
+              5037973.96
+            ],
+            [
+              298506.47,
+              5037955.3
+            ],
+            [
+              298482.78000000026,
+              5037937.08
+            ],
+            [
+              298458.13999999966,
+              5037969.76
+            ],
+            [
+              298499.46,
+              5038008.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "Text_": "BONS VOISINS",
+        "Index": "0798-025",
+        "NomArrond": "Le Sud-Ouest",
+        "RueN": "rue Sainte-Émilie",
+        "RueS": "rue Saint-Ambroise",
+        "RueE": "rue Bourget",
+        "RueO": "rue Turgeon",
+        "N_Jardinet": 38,
+        "Banlieu": null,
+        "SHAPE_Leng": 124.960546004,
+        "SHAPE_Area": 950.814100018,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298549.86000000034,
+              5037569.83
+            ],
+            [
+              298564.7599999998,
+              5037591.58
+            ],
+            [
+              298594.6200000001,
+              5037570.89
+            ],
+            [
+              298579.75,
+              5037549.45
+            ],
+            [
+              298549.86000000034,
+              5037569.83
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "Text_": "SAINTE-MARIA-GORETTI",
+        "Index": "0798-051",
+        "NomArrond": "Rivière-des-PrairiesPointe-aux-Trembles",
+        "RueN": "terrasse Sainte-Maria-Goretti",
+        "RueS": "rue Bureau",
+        "RueE": "96e avenue",
+        "RueO": "94e avenue",
+        "N_Jardinet": 24,
+        "Banlieu": null,
+        "SHAPE_Leng": 123.712900022,
+        "SHAPE_Area": 824.073550004,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              306179.6500000004,
+              5062026.45
+            ],
+            [
+              306172.08,
+              5061984.61
+            ],
+            [
+              306152.73000000045,
+              5061986.96
+            ],
+            [
+              306160.25,
+              5062028.48
+            ],
+            [
+              306179.6500000004,
+              5062026.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "Text_": "PIERRE-LACROIX",
+        "Index": "0690-000",
+        "NomArrond": "Rivière-des-PrairiesPointe-aux-Trembles",
+        "RueN": "rue De La Gauchetière",
+        "RueS": "rue Parent",
+        "RueE": "rue Pierre-Lacroix",
+        "RueO": "18e avenue",
+        "N_Jardinet": 118,
+        "Banlieu": null,
+        "SHAPE_Leng": 321.526053616,
+        "SHAPE_Area": 4749.68735006,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              305109.54,
+              5056282.33
+            ],
+            [
+              305227.33,
+              5056256.38
+            ],
+            [
+              305218.4000000004,
+              5056217.14
+            ],
+            [
+              305103.88999999966,
+              5056242.36
+            ],
+            [
+              305110.7000000002,
+              5056271.92
+            ],
+            [
+              305107.6200000001,
+              5056272.59
+            ],
+            [
+              305109.54,
+              5056282.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "Text_": "SOULIGNY",
+        "Index": "0798-656",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue Hochelaga",
+        "RueS": "avenue Souligny",
+        "RueE": "avenue Desroches",
+        "RueO": null,
+        "N_Jardinet": 125,
+        "Banlieu": null,
+        "SHAPE_Leng": 381.98419233,
+        "SHAPE_Area": 5715.23319998,
+        "Nbacs": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              303023.6299999999,
+              5050414.99
+            ],
+            [
+              303035.67,
+              5050444.55
+            ],
+            [
+              303039.4000000004,
+              5050453.58
+            ],
+            [
+              303056.0599999996,
+              5050446.34
+            ],
+            [
+              303056.5700000003,
+              5050443.95
+            ],
+            [
+              303101.0999999996,
+              5050424.94
+            ],
+            [
+              303088.98000000045,
+              5050398.74
+            ],
+            [
+              303072.8700000001,
+              5050359.96
+            ],
+            [
+              303056.78000000026,
+              5050314.9
+            ],
+            [
+              303052.6799999997,
+              5050313.2
+            ],
+            [
+              303020.36000000034,
+              5050327.09
+            ],
+            [
+              303051.41000000015,
+              5050403.05
+            ],
+            [
+              303045.8799999999,
+              5050406.39
+            ],
+            [
+              303035.67,
+              5050410.3
+            ],
+            [
+              303035.4900000002,
+              5050409.79
+            ],
+            [
+              303023.6299999999,
+              5050414.99
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "Text_": "ARC-EN-SOL",
+        "Index": "0798-006",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "avenue Pierre-De Coubertin",
+        "RueS": "rue Hochelaga",
+        "RueE": "rue Arcand",
+        "RueO": "rue Desautels",
+        "N_Jardinet": 112,
+        "Banlieu": null,
+        "SHAPE_Leng": 256.097892504,
+        "SHAPE_Area": 3596.8177501,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              302300.33999999985,
+              5049123.46
+            ],
+            [
+              302337.78000000026,
+              5049105.79
+            ],
+            [
+              302302.4500000002,
+              5049027.04
+            ],
+            [
+              302264.5099999998,
+              5049044.68
+            ],
+            [
+              302300.33999999985,
+              5049123.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "Text_": "PIERRE-BERTRAND",
+        "Index": "0798-100",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue Bisaillon",
+        "RueS": "rue Sherbrooke",
+        "RueE": "boulevard Pierre-Bernard",
+        "RueO": "rue Joffre",
+        "N_Jardinet": 29,
+        "Banlieu": null,
+        "SHAPE_Leng": 175.743308516,
+        "SHAPE_Area": 1490.53665002,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              302465.51999999955,
+              5051888.39
+            ],
+            [
+              302490.6900000004,
+              5051947.31
+            ],
+            [
+              302492.83999999985,
+              5051948.07
+            ],
+            [
+              302512.08999999985,
+              5051940
+            ],
+            [
+              302486.6799999997,
+              5051879.54
+            ],
+            [
+              302465.51999999955,
+              5051888.39
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "Text_": "DUPÉRÉ",
+        "Index": "0798-108",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue De Forbin-Janson",
+        "RueS": "rue Sherbrooke",
+        "RueE": "rue Saint-Donat",
+        "RueO": "rue  Honoré-Beaugrand",
+        "N_Jardinet": 132,
+        "Banlieu": null,
+        "SHAPE_Leng": 359.311254511,
+        "SHAPE_Area": 7567.74930002,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              302126.36000000034,
+              5051281.45
+            ],
+            [
+              302128.58,
+              5051282.55
+            ],
+            [
+              302188.4900000002,
+              5051257.19
+            ],
+            [
+              302144.46,
+              5051152.94
+            ],
+            [
+              302082.75,
+              5051178.48
+            ],
+            [
+              302126.36000000034,
+              5051281.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "Text_": "B.P. TÉTREAULVILLE",
+        "Index": "0798-003",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue de Teck",
+        "RueS": "rue de Marseille",
+        "RueE": "rue Aubry",
+        "RueO": "rue Bolduc",
+        "N_Jardinet": 60,
+        "Banlieu": null,
+        "SHAPE_Leng": 254.208431124,
+        "SHAPE_Area": 3501.37345,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              302976.6200000001,
+              5052205.03
+            ],
+            [
+              302964.4900000002,
+              5052166.25
+            ],
+            [
+              302880.33,
+              5052190.32
+            ],
+            [
+              302884.0700000003,
+              5052202.23
+            ],
+            [
+              302886.4500000002,
+              5052209.54
+            ],
+            [
+              302893.47,
+              5052227.88
+            ],
+            [
+              302976.6200000001,
+              5052205.03
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "Text_": "LES DEUX SAPINS",
+        "Index": "0798-040",
+        "NomArrond": "Rivière-des-PrairiesPointe-aux-Trembles",
+        "RueN": "boulevard Gouin",
+        "RueS": "boulevard Perras",
+        "RueE": "94e avenue",
+        "RueO": "89e avenue",
+        "N_Jardinet": 29,
+        "Banlieu": null,
+        "SHAPE_Leng": 126.873698891,
+        "SHAPE_Area": 988.634699276,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              301743.4632812496,
+              5059203.20265625
+            ],
+            [
+              301720.0323437499,
+              5059182.541874999
+            ],
+            [
+              301703.3700000001,
+              5059214.71
+            ],
+            [
+              301731.5599999996,
+              5059228.55
+            ],
+            [
+              301743.4632812496,
+              5059203.20265625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "Text_": "MARSEILLE",
+        "Index": "0798-009",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue Sherbrooke",
+        "RueS": "rue de Marseille",
+        "RueE": "avenue de la Pépinière",
+        "RueO": "rue Du Quesne",
+        "N_Jardinet": 11,
+        "Banlieu": null,
+        "SHAPE_Leng": 66.1231561138,
+        "SHAPE_Area": 235.228399994,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              301548.25,
+              5048488.98
+            ],
+            [
+              301539.1200000001,
+              5048493.31
+            ],
+            [
+              301548.75,
+              5048515.24
+            ],
+            [
+              301554.5999999996,
+              5048513.13
+            ],
+            [
+              301555.8099999996,
+              5048506.1
+            ],
+            [
+              301548.25,
+              5048488.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "Text_": "HABITATIONS JEANNE-MANCE",
+        "Index": "0798-037",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Ontario",
+        "RueS": "boulevard de Maisonneuve",
+        "RueE": "rue Sanguinet",
+        "RueO": "rue Saint-Dominique",
+        "N_Jardinet": 55,
+        "Banlieu": null,
+        "SHAPE_Leng": 192.056942441,
+        "SHAPE_Area": 1759.27570003,
+        "Nbacs": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299816.16000000015,
+              5041401.67
+            ],
+            [
+              299756.38999999966,
+              5041440.69
+            ],
+            [
+              299769.23000000045,
+              5041461.1
+            ],
+            [
+              299829.58,
+              5041422.98
+            ],
+            [
+              299816.16000000015,
+              5041401.67
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "Text_": "VICTORIA",
+        "Index": "0798-031",
+        "NomArrond": "Côte-des-NeigesNotre-Dame-de-Grâce",
+        "RueN": "avenue Bourret",
+        "RueS": "chemin de la Côte-Sainte-Catherine",
+        "RueE": "avenue Victoria",
+        "RueO": "rue Lemieux",
+        "N_Jardinet": 139,
+        "Banlieu": null,
+        "SHAPE_Leng": 336.977908756,
+        "SHAPE_Area": 5722.83270739,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294242.9299999997,
+              5039131.98
+            ],
+            [
+              294295.3700000001,
+              5039215.49
+            ],
+            [
+              294305.1559375003,
+              5039209.23625
+            ],
+            [
+              294298.7901562499,
+              5039199.753281251
+            ],
+            [
+              294301.46031249966,
+              5039198.0717187505
+            ],
+            [
+              294308.00796874985,
+              5039207.41
+            ],
+            [
+              294343.88999999966,
+              5039184.49
+            ],
+            [
+              294292.1200000001,
+              5039099.69
+            ],
+            [
+              294242.9299999997,
+              5039131.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "Text_": "FAUBOURG SAINT-LAURENT",
+        "Index": "0798-033",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Sainte-Catherine",
+        "RueS": "rue Charlotte",
+        "RueE": "rue De Bullion",
+        "RueO": "rue Berger",
+        "N_Jardinet": 12,
+        "Banlieu": null,
+        "SHAPE_Leng": 92.7270487283,
+        "SHAPE_Area": 412.712450009,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299948.5499999998,
+              5041212.97
+            ],
+            [
+              299958.51999999955,
+              5041206.41
+            ],
+            [
+              299940.48000000045,
+              5041177.19
+            ],
+            [
+              299930.36000000034,
+              5041183.84
+            ],
+            [
+              299948.5499999998,
+              5041212.97
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "Text_": "DES SEIGNEURS",
+        "Index": "0798-026",
+        "NomArrond": "Le Sud-Ouest",
+        "RueN": "rue Quesnel",
+        "RueS": "rue Saint-Jacques",
+        "RueE": "rue des Seigneurs",
+        "RueO": "rue Chatham",
+        "N_Jardinet": 109,
+        "Banlieu": null,
+        "SHAPE_Leng": 264.509860936,
+        "SHAPE_Area": 3290.00975003,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299095.58999999985,
+              5038839.38
+            ],
+            [
+              299144.61000000034,
+              5038805.72
+            ],
+            [
+              299119.96,
+              5038768.46
+            ],
+            [
+              299097.26999999955,
+              5038783.41
+            ],
+            [
+              299087.4500000002,
+              5038789.88
+            ],
+            [
+              299080.1500000004,
+              5038779.17
+            ],
+            [
+              299072.1299999999,
+              5038767.38
+            ],
+            [
+              299054.3499999996,
+              5038779.53
+            ],
+            [
+              299095.58999999985,
+              5038839.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "Text_": "LA POINTE-VERTE",
+        "Index": "0798-257",
+        "NomArrond": "Le Sud-Ouest",
+        "RueN": "rue Mullins",
+        "RueS": "rue Knox",
+        "RueE": "rue d'Hybernia",
+        "RueO": "rue Charlevoix",
+        "N_Jardinet": 50,
+        "Banlieu": null,
+        "SHAPE_Leng": 138.197123106,
+        "SHAPE_Area": 1121.69958662,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299785.19546874985,
+              5037504.984375
+            ],
+            [
+              299762.54343749955,
+              5037471.244999999
+            ],
+            [
+              299734.25296874996,
+              5037489.990937499
+            ],
+            [
+              299766.42453125026,
+              5037516.425156251
+            ],
+            [
+              299785.19546874985,
+              5037504.984375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "Text_": "MILE-END",
+        "Index": "0798-699",
+        "NomArrond": "Le Plateau-Mont-Royal",
+        "RueN": "rue Maguire",
+        "RueS": "rue Boucher",
+        "RueE": "avenue Henri-Julien",
+        "RueO": "avenue De Gaspé",
+        "N_Jardinet": 93,
+        "Banlieu": null,
+        "SHAPE_Leng": 199.518998746,
+        "SHAPE_Area": 2240.6003,
+        "Nbacs": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              297552.1799999997,
+              5042990.17
+            ],
+            [
+              297526.25,
+              5042950.27
+            ],
+            [
+              297506.6299999999,
+              5042963.69
+            ],
+            [
+              297509.36000000034,
+              5042967.87
+            ],
+            [
+              297485.2000000002,
+              5042983.68
+            ],
+            [
+              297505.6200000001,
+              5043015.39
+            ],
+            [
+              297524.7599999998,
+              5043003.1
+            ],
+            [
+              297526.86000000034,
+              5043006.29
+            ],
+            [
+              297552.1799999997,
+              5042990.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "Text_": "SAINT-MARC",
+        "Index": "0798-200",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "rue Bélanger",
+        "RueS": "rue Saint-Zotique",
+        "RueE": "2e avenue",
+        "RueO": "1re avenue",
+        "N_Jardinet": 23,
+        "Banlieu": null,
+        "SHAPE_Leng": 170.082756485,
+        "SHAPE_Area": 1108.28054999,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              297340.5599999996,
+              5045906.08
+            ],
+            [
+              297283.01999999955,
+              5045944.18
+            ],
+            [
+              297291.97,
+              5045957.62
+            ],
+            [
+              297349.36000000034,
+              5045919.43
+            ],
+            [
+              297340.5599999996,
+              5045906.08
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "Text_": "SAINTE-MARTHE",
+        "Index": "0798-053",
+        "NomArrond": "Rivière-des-PrairiesPointe-aux-Trembles",
+        "RueN": "rue Jacques-Rousseau",
+        "RueS": "boulevard Perras",
+        "RueE": "boulevard Armand-Bombardier",
+        "RueO": "avenue Élie-Beauregard",
+        "N_Jardinet": 71,
+        "Banlieu": null,
+        "SHAPE_Leng": 225.780643124,
+        "SHAPE_Area": 3085.31824996,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              297114.4299999997,
+              5055415.22
+            ],
+            [
+              297167.73000000045,
+              5055454.87
+            ],
+            [
+              297195.3799999999,
+              5055417.62
+            ],
+            [
+              297142.01999999955,
+              5055377.88
+            ],
+            [
+              297114.4299999997,
+              5055415.22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "Text_": "LA MENNAIS",
+        "Index": "0798-018",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "rue Sainte-Zotique",
+        "RueS": "rue Beaubien",
+        "RueE": "rue Saint-Denis",
+        "RueO": "rue Drolet",
+        "N_Jardinet": 56,
+        "Banlieu": null,
+        "SHAPE_Leng": 206.609242685,
+        "SHAPE_Area": 1932.85084995,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              296497.0099999998,
+              5043794.74
+            ],
+            [
+              296498.11000000034,
+              5043794.01
+            ],
+            [
+              296520.01999999955,
+              5043827.12
+            ],
+            [
+              296539.9299999997,
+              5043814.27
+            ],
+            [
+              296497.86000000034,
+              5043748.71
+            ],
+            [
+              296476.1900000004,
+              5043762.74
+            ],
+            [
+              296497.0099999998,
+              5043794.74
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "Text_": "SAINT-RAYMOND",
+        "Index": "0798-273",
+        "NomArrond": "Côte-des-NeigesNotre-Dame-de-Grâce",
+        "RueN": "boulevard Maisonneuve",
+        "RueS": "chemin Upper-Lachine",
+        "RueE": "avenue Old Orchard",
+        "RueO": "avenue d'Oxford",
+        "N_Jardinet": 21,
+        "Banlieu": null,
+        "SHAPE_Leng": 140.902722604,
+        "SHAPE_Area": 812.613649973,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              296230.51999999955,
+              5036688.02
+            ],
+            [
+              296196.88999999966,
+              5036662.93
+            ],
+            [
+              296189.66000000015,
+              5036669.88
+            ],
+            [
+              296185.2000000002,
+              5036673.28
+            ],
+            [
+              296225.8499999996,
+              5036703.11
+            ],
+            [
+              296241.6299999999,
+              5036693.34
+            ],
+            [
+              296237.5700000003,
+              5036687.34
+            ],
+            [
+              296230.51999999955,
+              5036688.02
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "Text_": "ANGRIGNON",
+        "Index": "0798-052",
+        "NomArrond": "Le Sud-Ouest",
+        "RueN": "boulevard Newman",
+        "RueS": "boulevard De La Vérendrye",
+        "RueE": "boulevard des Trinitaires",
+        "RueO": "rue Ducas",
+        "N_Jardinet": 110,
+        "Banlieu": null,
+        "SHAPE_Leng": 382.745462691,
+        "SHAPE_Area": 8612.63980009,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              296985.4000000004,
+              5033971.42
+            ],
+            [
+              296992.4000000004,
+              5033974.27
+            ],
+            [
+              297019.98000000045,
+              5033897.03
+            ],
+            [
+              296969.54,
+              5033879.48
+            ],
+            [
+              296961.9000000004,
+              5033876.55
+            ],
+            [
+              296961.1900000004,
+              5033883.43
+            ],
+            [
+              296922.9000000004,
+              5033871.01
+            ],
+            [
+              296901.0599999996,
+              5033936.31
+            ],
+            [
+              296908.2400000002,
+              5033938.71
+            ],
+            [
+              296903.7999999998,
+              5033952.72
+            ],
+            [
+              296982.0099999998,
+              5033980.97
+            ],
+            [
+              296985.4000000004,
+              5033971.42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "Text_": "LE GOUPILLIER",
+        "Index": "0798-041",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "rue J.-B.-Matineau",
+        "RueS": "54e rue",
+        "RueE": "rue de Meaux",
+        "RueO": "boulevard Pie-1X",
+        "N_Jardinet": 68,
+        "Banlieu": null,
+        "SHAPE_Leng": 251.393698318,
+        "SHAPE_Area": 2010.25379995,
+        "Nbacs": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294994.88999999966,
+              5049322.57
+            ],
+            [
+              294986.26999999955,
+              5049309.99
+            ],
+            [
+              294945.5700000003,
+              5049245.25
+            ],
+            [
+              294928.11000000034,
+              5049256.18
+            ],
+            [
+              294976.7599999998,
+              5049332.27
+            ],
+            [
+              294984.1299999999,
+              5049327.77
+            ],
+            [
+              294991.72,
+              5049340.26
+            ],
+            [
+              295002.04,
+              5049333.87
+            ],
+            [
+              294994.88999999966,
+              5049322.57
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "Text_": "LE MICHELOIS",
+        "Index": "0798-019",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "rue Denis-Papin",
+        "RueS": "boulevard Robert",
+        "RueE": "12e avenue",
+        "RueO": "boulevard Saint-Michel",
+        "N_Jardinet": 64,
+        "Banlieu": null,
+        "SHAPE_Leng": 167.509328985,
+        "SHAPE_Area": 1736.07885003,
+        "Nbacs": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295469.5599999996,
+              5047613.94
+            ],
+            [
+              295493.91000000015,
+              5047652.97
+            ],
+            [
+              295526.03000000026,
+              5047632.79
+            ],
+            [
+              295501.1799999997,
+              5047593.91
+            ],
+            [
+              295469.5599999996,
+              5047613.94
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "Text_": "VILLERAY",
+        "Index": "0798-022",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "rue Jarry",
+        "RueS": "rue Villeray",
+        "RueE": "avenue Christophe-Colomb",
+        "RueO": "rue Boyer",
+        "N_Jardinet": 238,
+        "Banlieu": null,
+        "SHAPE_Leng": 399.829848737,
+        "SHAPE_Area": 6307.53759989,
+        "Nbacs": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295142.8200000003,
+              5045298.26
+            ],
+            [
+              295278.33,
+              5045212.01
+            ],
+            [
+              295257.6799999997,
+              5045178.96
+            ],
+            [
+              295121.8200000003,
+              5045264.74
+            ],
+            [
+              295142.8200000003,
+              5045298.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "Text_": "DE NORMANVILLE",
+        "Index": "0798-238",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "rue Jarry",
+        "RueS": "rue Tillemont",
+        "RueE": "rue Chambord",
+        "RueO": "rue DE Normanville",
+        "N_Jardinet": 28,
+        "Banlieu": null,
+        "SHAPE_Leng": 142.780552506,
+        "SHAPE_Area": 1141.08319998,
+        "Nbacs": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295431.88999999966,
+              5045400.64
+            ],
+            [
+              295430.66000000015,
+              5045385.47
+            ],
+            [
+              295422.5099999998,
+              5045386.01
+            ],
+            [
+              295422.16000000015,
+              5045380.04
+            ],
+            [
+              295409.1799999997,
+              5045380.88
+            ],
+            [
+              295390.04,
+              5045392.88
+            ],
+            [
+              295391.03000000026,
+              5045405.5
+            ],
+            [
+              295389.76999999955,
+              5045406.32
+            ],
+            [
+              295397.04,
+              5045417.53
+            ],
+            [
+              295394.25,
+              5045419.42
+            ],
+            [
+              295396.61000000034,
+              5045423.62
+            ],
+            [
+              295431.88999999966,
+              5045400.64
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "Text_": "RENCONTRES",
+        "Index": "0798-030",
+        "NomArrond": "Côte-des-NeigesNotre-Dame-de-Grâce",
+        "RueN": "avenue Notre-Dame-de-Grâce",
+        "RueS": "chemin de la Côte-Saint-Antoine",
+        "RueE": "autoroute 15",
+        "RueO": "avenue Girouard",
+        "N_Jardinet": 39,
+        "Banlieu": null,
+        "SHAPE_Leng": 171.451445103,
+        "SHAPE_Area": 1489.03449998,
+        "Nbacs": 39
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295696.2599999998,
+              5037291.52
+            ],
+            [
+              295693.1799999997,
+              5037293.28
+            ],
+            [
+              295678.25,
+              5037301.84
+            ],
+            [
+              295711.2000000002,
+              5037354.12
+            ],
+            [
+              295734.63999999966,
+              5037338.79
+            ],
+            [
+              295696.2599999998,
+              5037291.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "Text_": "CHÂTEAUFORT",
+        "Index": "0798-145",
+        "NomArrond": "Côte-des-NeigesNotre-Dame-de-Grâce",
+        "RueN": "avenue Barday",
+        "RueS": "avenue Van Horne",
+        "RueE": "avenue de Darlington",
+        "RueO": "chemin Hudson",
+        "N_Jardinet": 164,
+        "Banlieu": null,
+        "SHAPE_Leng": 350.925818231,
+        "SHAPE_Area": 6534.59263402,
+        "Nbacs": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294946.63187499996,
+              5040881.7709375005
+            ],
+            [
+              294947.75093750004,
+              5040878.507031251
+            ],
+            [
+              294921.95406250004,
+              5040828.23609375
+            ],
+            [
+              294900.5298437504,
+              5040812.0509375
+            ],
+            [
+              294872.7603125004,
+              5040790.128125
+            ],
+            [
+              294850.05171875004,
+              5040801.7465625
+            ],
+            [
+              294842.7901562499,
+              5040797.389687501
+            ],
+            [
+              294826.41890625004,
+              5040805.44328125
+            ],
+            [
+              294833.6799999997,
+              5040820.27
+            ],
+            [
+              294838.96,
+              5040830.53
+            ],
+            [
+              294845.8799999999,
+              5040843.74
+            ],
+            [
+              294849.83999999985,
+              5040851.38
+            ],
+            [
+              294859.87203125004,
+              5040871.2071875
+            ],
+            [
+              294879.1299999999,
+              5040868.15
+            ],
+            [
+              294880.4299999997,
+              5040869.3
+            ],
+            [
+              294880.54,
+              5040870.85
+            ],
+            [
+              294888.04,
+              5040869.73
+            ],
+            [
+              294889.4900000002,
+              5040870.75
+            ],
+            [
+              294890.29671875015,
+              5040877.8140625
+            ],
+            [
+              294898.8557812497,
+              5040879.77703125
+            ],
+            [
+              294902.7717187498,
+              5040879.24796875
+            ],
+            [
+              294924.5734374998,
+              5040893.217968751
+            ],
+            [
+              294946.63187499996,
+              5040881.7709375005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "Text_": "BABYLONE",
+        "Index": "0798-296",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "rue Jarry",
+        "RueS": "rue Saint-Roch",
+        "RueE": "parc Jarry",
+        "RueO": "rue Durocher",
+        "N_Jardinet": 178,
+        "Banlieu": null,
+        "SHAPE_Leng": 309.56153053,
+        "SHAPE_Area": 5252.42075001,
+        "Nbacs": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294380.9400000004,
+              5043680.67
+            ],
+            [
+              294482.42,
+              5043656.81
+            ],
+            [
+              294459.4000000004,
+              5043601.88
+            ],
+            [
+              294364.0499999998,
+              5043641.79
+            ],
+            [
+              294380.9400000004,
+              5043680.67
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "Text_": "SAINT-SULPICE",
+        "Index": "0798-425",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "avenue Émile-Journault",
+        "RueS": "rue Étienne-Blanchard",
+        "RueE": "avenie André-Grasset",
+        "RueO": "avenue Christophe-Colomb",
+        "N_Jardinet": 259,
+        "Banlieu": null,
+        "SHAPE_Leng": 398.055260044,
+        "SHAPE_Area": 9703.29279989,
+        "Nbacs": 16
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294231.42,
+              5046391.14
+            ],
+            [
+              294263.28000000026,
+              5046370.19
+            ],
+            [
+              294267.38999999966,
+              5046367.5
+            ],
+            [
+              294301.0499999998,
+              5046345.15
+            ],
+            [
+              294241.2000000002,
+              5046248.55
+            ],
+            [
+              294228.7999999998,
+              5046255.96
+            ],
+            [
+              294204.1500000004,
+              5046271.39
+            ],
+            [
+              294190.2999999998,
+              5046279.49
+            ],
+            [
+              294169.4000000004,
+              5046292.72
+            ],
+            [
+              294230.28000000026,
+              5046390.86
+            ],
+            [
+              294231.42,
+              5046391.14
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "Text_": "DE LILLE",
+        "Index": "0798-017",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "avenue Charland",
+        "RueS": "rue Chamdoré",
+        "RueE": "avenue Bruchesi",
+        "RueO": "rue de Lille",
+        "N_Jardinet": 50,
+        "Banlieu": null,
+        "SHAPE_Leng": 162.691443647,
+        "SHAPE_Area": 1251.60555004,
+        "Nbacs": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294020.17,
+              5047793.44
+            ],
+            [
+              294051.26999999955,
+              5047845.55
+            ],
+            [
+              294069.17,
+              5047834.93
+            ],
+            [
+              294037.66000000015,
+              5047782.94
+            ],
+            [
+              294020.17,
+              5047793.44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "Text_": "AHUNTSIC",
+        "Index": "0798-013",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "rue Prieur",
+        "RueS": "rue Fleury",
+        "RueE": "rue Sackville",
+        "RueO": "rue André-Jobin",
+        "N_Jardinet": 130,
+        "Banlieu": null,
+        "SHAPE_Leng": 280.697290658,
+        "SHAPE_Area": 4923.89190004,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              293199.83,
+              5048621.28
+            ],
+            [
+              293141.29,
+              5048656.23
+            ],
+            [
+              293177.5,
+              5048717.48
+            ],
+            [
+              293237.58999999985,
+              5048682.23
+            ],
+            [
+              293208.97,
+              5048635.95
+            ],
+            [
+              293199.83,
+              5048621.28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "Text_": "CHAMPDORÉ",
+        "Index": "0798-015",
+        "NomArrond": "VilleraySaint-MichelParc-Extension",
+        "RueN": "rue Champdoré",
+        "RueS": "par CESM",
+        "RueE": "rue des Prairies",
+        "RueO": "avenue Papineau",
+        "N_Jardinet": 213,
+        "Banlieu": null,
+        "SHAPE_Leng": 373.235237247,
+        "SHAPE_Area": 6296.56590005,
+        "Nbacs": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              293711.58999999985,
+              5047249.12
+            ],
+            [
+              293717.3799999999,
+              5047259.13
+            ],
+            [
+              293707.8099999996,
+              5047264.83
+            ],
+            [
+              293776.38999999966,
+              5047375.13
+            ],
+            [
+              293815.2999999998,
+              5047351.13
+            ],
+            [
+              293740.42,
+              5047231.49
+            ],
+            [
+              293711.58999999985,
+              5047249.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "Text_": "NOTRE-DAME-DE-GRÂCE",
+        "Index": "0798-028",
+        "NomArrond": "Côte-des-NeigesNotre-Dame-de-Grâce",
+        "RueN": "chemin de la Côte-Saint-Luc",
+        "RueS": "avenue de Chester",
+        "RueE": "avenue Rosedale",
+        "RueO": "avenue Coronation",
+        "N_Jardinet": 46,
+        "Banlieu": null,
+        "SHAPE_Leng": 156.427867127,
+        "SHAPE_Area": 1271.21744999,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292987.28000000026,
+              5036406.17
+            ],
+            [
+              292960.26999999955,
+              5036357.88
+            ],
+            [
+              292940.1200000001,
+              5036368.88
+            ],
+            [
+              292966.8200000003,
+              5036416.97
+            ],
+            [
+              292987.28000000026,
+              5036406.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 55,
+        "Text_": "DE LA SAVANE",
+        "Index": "0798-700",
+        "NomArrond": "Côte-des-NeigesNotre-Dame-de-Grâce",
+        "RueN": "rue de la Savane",
+        "RueS": "rue Paré",
+        "RueE": "rue Jean-Talon",
+        "RueO": "avenue Mountain Sights",
+        "N_Jardinet": 26,
+        "Banlieu": null,
+        "SHAPE_Leng": 127.960995797,
+        "SHAPE_Area": 871.288599979,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292672.86000000034,
+              5039901.01
+            ],
+            [
+              292685.91000000015,
+              5039889.27
+            ],
+            [
+              292690.1900000004,
+              5039894.03
+            ],
+            [
+              292705.58999999985,
+              5039880.17
+            ],
+            [
+              292688.2000000002,
+              5039861.22
+            ],
+            [
+              292659.76999999955,
+              5039886.75
+            ],
+            [
+              292672.86000000034,
+              5039901.01
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "Text_": "CHRIST-ROI",
+        "Index": "0798-016",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "rue de Port-Royal",
+        "RueS": "rue Frémont",
+        "RueE": "rue Saint-Hubert",
+        "RueO": "rue Foucher",
+        "N_Jardinet": 56,
+        "Banlieu": null,
+        "SHAPE_Leng": 207.366469803,
+        "SHAPE_Area": 1738.03230003,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292920.1799999997,
+              5045843.96
+            ],
+            [
+              292953.3499999996,
+              5045921.03
+            ],
+            [
+              292969.8099999996,
+              5045913.59
+            ],
+            [
+              292970.1900000004,
+              5045908.5
+            ],
+            [
+              292939.75,
+              5045835.59
+            ],
+            [
+              292920.1799999997,
+              5045843.96
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "Text_": "LES CASTORS",
+        "Index": "0798-020",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "rue Sauvé",
+        "RueS": "rue Frémont",
+        "RueE": "rue Lajeunesse",
+        "RueO": "rue Berri",
+        "N_Jardinet": 18,
+        "Banlieu": null,
+        "SHAPE_Leng": 152.888221228,
+        "SHAPE_Area": 526.981200005,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292810.51999999955,
+              5045608.53
+            ],
+            [
+              292796.3799999999,
+              5045614.05
+            ],
+            [
+              292807.6900000004,
+              5045621.98
+            ],
+            [
+              292823.21,
+              5045659.81
+            ],
+            [
+              292820.63999999966,
+              5045669.16
+            ],
+            [
+              292833.16000000015,
+              5045663.73
+            ],
+            [
+              292810.51999999955,
+              5045608.53
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 58,
+        "Text_": "PIERRE-LAPOINTE",
+        "Index": "0798-007",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "boulevard Henri-Bourassa",
+        "RueS": "rue Fleury",
+        "RueE": "rue Saint-Hubert",
+        "RueO": "rue Lajeunesse",
+        "N_Jardinet": 68,
+        "Banlieu": null,
+        "SHAPE_Leng": 202.482950583,
+        "SHAPE_Area": 2519.6613,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              291831.0999999996,
+              5046394.78
+            ],
+            [
+              291868.6799999997,
+              5046379.13
+            ],
+            [
+              291868.17,
+              5046376.03
+            ],
+            [
+              291867.22,
+              5046372.39
+            ],
+            [
+              291865.97,
+              5046367.69
+            ],
+            [
+              291864.4000000004,
+              5046363.24
+            ],
+            [
+              291863.4000000004,
+              5046360.66
+            ],
+            [
+              291862.2599999998,
+              5046358.15
+            ],
+            [
+              291861.1200000001,
+              5046355.8
+            ],
+            [
+              291859.17,
+              5046352.23
+            ],
+            [
+              291858.01999999955,
+              5046350.12
+            ],
+            [
+              291856.8700000001,
+              5046348.09
+            ],
+            [
+              291854.04,
+              5046343.72
+            ],
+            [
+              291852.0700000003,
+              5046341.09
+            ],
+            [
+              291849.48000000045,
+              5046338.13
+            ],
+            [
+              291846.63999999966,
+              5046334.88
+            ],
+            [
+              291844.25,
+              5046332.33
+            ],
+            [
+              291842.22,
+              5046330.36
+            ],
+            [
+              291840.33,
+              5046328.73
+            ],
+            [
+              291838.83999999985,
+              5046327.45
+            ],
+            [
+              291805.4900000002,
+              5046332.82
+            ],
+            [
+              291831.0999999996,
+              5046394.78
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 59,
+        "Text_": "MARCELIN-WILSON",
+        "Index": "0798-035",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "rue Dudemaine",
+        "RueS": "boulevard Henri-Bourrassa",
+        "RueE": "rue Marie-Lavallée",
+        "RueO": "boulevard de l'Acadie",
+        "N_Jardinet": 196,
+        "Banlieu": null,
+        "SHAPE_Leng": 317.216788384,
+        "SHAPE_Area": 5832.48200001,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              290541.72,
+              5044162.91
+            ],
+            [
+              290524.03000000026,
+              5044088.75
+            ],
+            [
+              290446.21,
+              5044126.23
+            ],
+            [
+              290476.76999999955,
+              5044191.14
+            ],
+            [
+              290507.01999999955,
+              5044178
+            ],
+            [
+              290509.1200000001,
+              5044183.2
+            ],
+            [
+              290521.66000000015,
+              5044178.04
+            ],
+            [
+              290518.98000000045,
+              5044172.75
+            ],
+            [
+              290541.72,
+              5044162.91
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 60,
+        "Text_": "SAULT-AU-RÉCOLLET",
+        "Index": "0798-452",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "île-de-la-Visitation",
+        "RueS": "boulevard Gouin",
+        "RueE": "rue Saint-François-d'Assise",
+        "RueO": "rue du Pressoir",
+        "N_Jardinet": 50,
+        "Banlieu": null,
+        "SHAPE_Leng": 174.181409087,
+        "SHAPE_Area": 1782.16957608,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292358.5257812496,
+              5048516.5248437505
+            ],
+            [
+              292337.0557812499,
+              5048467.324843749
+            ],
+            [
+              292304.7251562504,
+              5048483.815781251
+            ],
+            [
+              292332.3557812497,
+              5048530.71828125
+            ],
+            [
+              292358.5257812496,
+              5048516.5248437505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 61,
+        "Text_": "LES ARPENTS VERTS",
+        "Index": "0798-044",
+        "NomArrond": "Rivière-des-PrairiesPointe-aux-Trembles",
+        "RueN": "rue De La Gauchetière",
+        "RueS": "rue Parent",
+        "RueE": "rue de Lorraine",
+        "RueO": "18e avenue",
+        "N_Jardinet": 85,
+        "Banlieu": null,
+        "SHAPE_Leng": 274.459197199,
+        "SHAPE_Area": 3768.58875003,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300884.33,
+              5057978.85
+            ],
+            [
+              300918.0599999996,
+              5057995.3
+            ],
+            [
+              300958.6500000004,
+              5057911.59
+            ],
+            [
+              300924.8499999996,
+              5057895.14
+            ],
+            [
+              300911.9900000002,
+              5057921.68
+            ],
+            [
+              300906.0499999998,
+              5057918.79
+            ],
+            [
+              300887.92,
+              5057956.17
+            ],
+            [
+              300893.96,
+              5057959.14
+            ],
+            [
+              300884.33,
+              5057978.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 62,
+        "Text_": "CABRINI",
+        "Index": "0798-001",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue Lina-Asnier",
+        "RueS": "rue Beaubien",
+        "RueE": "place Beaubien",
+        "RueO": "rue Cabrini",
+        "N_Jardinet": 127,
+        "Banlieu": null,
+        "SHAPE_Leng": 271.31988569,
+        "SHAPE_Area": 3869.04459999,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299657.9000000004,
+              5049161.85
+            ],
+            [
+              299610.26999999955,
+              5049087.82
+            ],
+            [
+              299570.04,
+              5049114.5
+            ],
+            [
+              299606.03000000026,
+              5049169.4
+            ],
+            [
+              299608.0099999998,
+              5049171.46
+            ],
+            [
+              299622.5599999996,
+              5049162.01
+            ],
+            [
+              299633.3799999999,
+              5049178.36
+            ],
+            [
+              299657.9000000004,
+              5049161.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 63,
+        "Text_": "ROSEMONT",
+        "Index": "0798-049",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "boulevard Rosemont",
+        "RueS": "rue Sherbrooke",
+        "RueE": "rue Viau",
+        "RueO": "boulevard Pie-IX",
+        "N_Jardinet": 171,
+        "Banlieu": null,
+        "SHAPE_Leng": 438.282124012,
+        "SHAPE_Area": 10409.8311074,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299430.7503124997,
+              5047177.82015625
+            ],
+            [
+              299337.04031249974,
+              5047215.2203125
+            ],
+            [
+              299345.90328125004,
+              5047229.2675
+            ],
+            [
+              299354.69921875,
+              5047223.5259374995
+            ],
+            [
+              299362.1189062502,
+              5047235.4859375
+            ],
+            [
+              299358.5412499998,
+              5047237.6953125
+            ],
+            [
+              299362.1312499996,
+              5047243.43984375
+            ],
+            [
+              299356.6825000001,
+              5047246.69921875
+            ],
+            [
+              299364.23031250015,
+              5047259.08015625
+            ],
+            [
+              299365.6903125001,
+              5047258.210156251
+            ],
+            [
+              299383.7101562498,
+              5047287.14
+            ],
+            [
+              299399.77015625034,
+              5047312.8103125
+            ],
+            [
+              299419.13999999966,
+              5047303.7
+            ],
+            [
+              299423.04031249974,
+              5047304.64
+            ],
+            [
+              299445.9903124999,
+              5047293.58015625
+            ],
+            [
+              299478.9001562502,
+              5047277.680312499
+            ],
+            [
+              299454.23031250015,
+              5047226.2403125
+            ],
+            [
+              299430.7503124997,
+              5047177.82015625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 64,
+        "Text_": "L'ÉGLANTIER",
+        "Index": "0798-085",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "boulevard Rosemont",
+        "RueS": "rue Sherbrooke",
+        "RueE": "rue Viau",
+        "RueO": "boulevard Pie-IX",
+        "N_Jardinet": 85,
+        "Banlieu": null,
+        "SHAPE_Leng": 290.364992139,
+        "SHAPE_Area": 4119.65450006,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299476.3499999996,
+              5047272.36
+            ],
+            [
+              299478.9000000004,
+              5047277.68
+            ],
+            [
+              299445.9900000002,
+              5047293.58
+            ],
+            [
+              299423.04,
+              5047304.64
+            ],
+            [
+              299439.97,
+              5047339.47
+            ],
+            [
+              299527.4400000004,
+              5047297.52
+            ],
+            [
+              299514.21,
+              5047254.62
+            ],
+            [
+              299476.3499999996,
+              5047272.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 65,
+        "Text_": "LAURIER",
+        "Index": "0798-698",
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": "avenue Laurier",
+        "RueS": "boulevard saint-Joseph",
+        "RueE": "13e avenue",
+        "RueO": "12e avenue",
+        "N_Jardinet": 42,
+        "Banlieu": null,
+        "SHAPE_Leng": 170.043196901,
+        "SHAPE_Area": 1489.21326914,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299412.93843750004,
+              5045657.32640625
+            ],
+            [
+              299402.4000000004,
+              5045631.92
+            ],
+            [
+              299353.2999999998,
+              5045652.54
+            ],
+            [
+              299364.1875,
+              5045678.1548437495
+            ],
+            [
+              299383.1229687501,
+              5045670.23
+            ],
+            [
+              299384.4343750002,
+              5045673.727187499
+            ],
+            [
+              299390.0298437504,
+              5045671.454062499
+            ],
+            [
+              299388.1939062504,
+              5045667.432343749
+            ],
+            [
+              299412.93843750004,
+              5045657.32640625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 66,
+        "Text_": "SAINT-ANDRÉ",
+        "Index": "0798-038",
+        "NomArrond": "Ville-Marie",
+        "RueN": "rue Sherbrooke",
+        "RueS": "rue Ontario",
+        "RueE": "rue Labrecque",
+        "RueO": "rue saint-andré",
+        "N_Jardinet": 28,
+        "Banlieu": null,
+        "SHAPE_Leng": 139.649098168,
+        "SHAPE_Area": 852.366750022,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299762.66000000015,
+              5042216.05
+            ],
+            [
+              299809.4400000004,
+              5042186.29
+            ],
+            [
+              299799.83999999985,
+              5042170.93
+            ],
+            [
+              299763.3099999996,
+              5042194.67
+            ],
+            [
+              299766.2000000002,
+              5042199.74
+            ],
+            [
+              299762.66000000015,
+              5042216.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 67,
+        "Text_": "CABRINI (ANNEXE)",
+        "Index": "0798-054",
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue Beaubien",
+        "RueS": "boulevard Rosemont",
+        "RueE": "rue Bossuet",
+        "RueO": "rue Lacordaire",
+        "N_Jardinet": 12,
+        "Banlieu": null,
+        "SHAPE_Leng": 77.5497522869,
+        "SHAPE_Area": 368.050900009,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299981.86000000034,
+              5048895.49
+            ],
+            [
+              300002.0099999998,
+              5048885.8
+            ],
+            [
+              299994.5700000003,
+              5048871.6
+            ],
+            [
+              299974.38999999966,
+              5048879.8
+            ],
+            [
+              299981.86000000034,
+              5048895.49
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 68,
+        "Text_": "DESCHAMPS",
+        "Index": "0798-014",
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "boulevard Gouin",
+        "RueS": "rue de Salaberry",
+        "RueE": "rue Deschamps",
+        "RueO": "rue Letellier",
+        "N_Jardinet": 64,
+        "Banlieu": null,
+        "SHAPE_Leng": 270.413547563,
+        "SHAPE_Area": 2116.20621361,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                289607.5401562499,
+                5044949.74015625
+              ],
+              [
+                289645.63999999966,
+                5044932.41015625
+              ],
+              [
+                289634.77015625034,
+                5044910.315468751
+              ],
+              [
+                289634.63999999966,
+                5044910.01
+              ],
+              [
+                289616.0145312501,
+                5044923.5490625
+              ],
+              [
+                289600.6101562502,
+                5044934.42015625
+              ],
+              [
+                289600.7212500004,
+                5044934.6659375
+              ],
+              [
+                289600.44015625026,
+                5044934.870156251
+              ],
+              [
+                289607.1701562498,
+                5044949.210156251
+              ],
+              [
+                289607.27796875034,
+                5044949.16046875
+              ],
+              [
+                289607.5401562499,
+                5044949.74015625
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                289595.0601562504,
+                5044964.780156249
+              ],
+              [
+                289580.9601562498,
+                5044933.380156251
+              ],
+              [
+                289545.5401562499,
+                5044959.9701562505
+              ],
+              [
+                289557.43015624955,
+                5044981.520156249
+              ],
+              [
+                289595.0601562504,
+                5044964.780156249
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "Text_": "ARTHUR-PÉLOQUIN",
+        "Index": "0798-056",
+        "NomArrond": "Saint-Léonard",
+        "RueN": "rue d'Artagnan",
+        "RueS": "rue Jean-Rivard",
+        "RueE": "rue Lévrard",
+        "RueO": "8115 rue Arthur-Péloquin",
+        "N_Jardinet": 68,
+        "Banlieu": null,
+        "SHAPE_Leng": 211.49005409,
+        "SHAPE_Area": 1165.32317581,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                296994.96968750004,
+                5048895.76375
+              ],
+              [
+                296985.44046874996,
+                5048881.4360937495
+              ],
+              [
+                296972.92953125015,
+                5048890.06296875
+              ],
+              [
+                296982.07906250004,
+                5048903.9545312505
+              ],
+              [
+                296988.3767187502,
+                5048900.378281251
+              ],
+              [
+                296990.35218750034,
+                5048898.06484375
+              ],
+              [
+                296994.96968750004,
+                5048895.76375
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                296966.2664062502,
+                5048906.49953125
+              ],
+              [
+                296960.3934375001,
+                5048896.82453125
+              ],
+              [
+                296914.7215625001,
+                5048928.37890625
+              ],
+              [
+                296924.8021874996,
+                5048943.608281249
+              ],
+              [
+                296957.2595312502,
+                5048921.706093751
+              ],
+              [
+                296953.6468749996,
+                5048915.2357812505
+              ],
+              [
+                296966.2664062502,
+                5048906.49953125
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 70,
+        "Text_": "COUTURE",
+        "Index": "0798-057",
+        "NomArrond": "Saint-Léonard",
+        "RueN": "boulevard des Grandes-Prairies",
+        "RueS": "4855 boulevard Couture",
+        "RueE": "boulevard Viau",
+        "RueO": "rue Pierre-Élliott-Trudeau",
+        "N_Jardinet": 34,
+        "Banlieu": null,
+        "SHAPE_Leng": 182.889694444,
+        "SHAPE_Area": 1381.34791363,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295701.54812499974,
+              5049753.919375
+            ],
+            [
+              295754.9351562504,
+              5049720.157031249
+            ],
+            [
+              295746.68015624955,
+              5049706.9278125
+            ],
+            [
+              295747.2909375001,
+              5049706.39296875
+            ],
+            [
+              295741.2059375001,
+              5049696.440625
+            ],
+            [
+              295719.4946875004,
+              5049709.89296875
+            ],
+            [
+              295722.8167187497,
+              5049715.1125
+            ],
+            [
+              295706.3046875,
+              5049725.60734375
+            ],
+            [
+              295709.9559375001,
+              5049731.32234375
+            ],
+            [
+              295693.8692187499,
+              5049741.694062499
+            ],
+            [
+              295701.54812499974,
+              5049753.919375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 71,
+        "Text_": "LES JARDINS ALICE-PATTERSON",
+        "Index": "0798-058",
+        "NomArrond": "Verdun",
+        "RueN": "fleuve Saint-Laurent",
+        "RueS": "boulevard de la Forêt",
+        "RueE": "chemin du Club-Marin",
+        "RueO": "boulevard de la Forêt",
+        "N_Jardinet": 200,
+        "Banlieu": null,
+        "SHAPE_Leng": 314.397058057,
+        "SHAPE_Area": 5249.95715348,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300269.9004687499,
+              5035232.2578125
+            ],
+            [
+              300275.6389062498,
+              5035227.167031251
+            ],
+            [
+              300282.37156249955,
+              5035222.4178125
+            ],
+            [
+              300288.96531249955,
+              5035217.8825
+            ],
+            [
+              300297.9865624998,
+              5035215.227656251
+            ],
+            [
+              300306.9548437502,
+              5035214.05875
+            ],
+            [
+              300315.5398437502,
+              5035216.289375
+            ],
+            [
+              300324.7245312501,
+              5035221.341875
+            ],
+            [
+              300329.96531249955,
+              5035227.785781249
+            ],
+            [
+              300358.6154687498,
+              5035204.737031249
+            ],
+            [
+              300352.97265625,
+              5035182.52578125
+            ],
+            [
+              300343.19906250015,
+              5035175.570625
+            ],
+            [
+              300332.3256249996,
+              5035171.24578125
+            ],
+            [
+              300320.54390625004,
+              5035167.85125
+            ],
+            [
+              300306.8707812503,
+              5035165.96484375
+            ],
+            [
+              300294.1501562502,
+              5035166.825312501
+            ],
+            [
+              300284.3373437496,
+              5035168.358124999
+            ],
+            [
+              300271.2971874997,
+              5035172.051562499
+            ],
+            [
+              300261.67874999996,
+              5035177.96703125
+            ],
+            [
+              300253.4712500004,
+              5035183.582656249
+            ],
+            [
+              300245.71359375026,
+              5035191.3146875
+            ],
+            [
+              300244.5607812498,
+              5035195.430781251
+            ],
+            [
+              300238.8334374996,
+              5035201.4409375
+            ],
+            [
+              300251.5259375004,
+              5035209.987656251
+            ],
+            [
+              300245.62906249985,
+              5035219.53625
+            ],
+            [
+              300269.9004687499,
+              5035232.2578125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 72,
+        "Text_": "ROI-RENÉ",
+        "Index": "0798-059",
+        "NomArrond": "Anjou",
+        "RueN": "boulevard Métropolitain",
+        "RueS": "avenue du Chardonnet",
+        "RueE": "boulevard Roi-René",
+        "RueO": "avenue Pigeon",
+        "N_Jardinet": 67,
+        "Banlieu": null,
+        "SHAPE_Leng": 223.56728488,
+        "SHAPE_Area": 2609.33163983,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300300.3021874996,
+              5052557.05640625
+            ],
+            [
+              300317.9395312499,
+              5052584.873749999
+            ],
+            [
+              300384.5376562504,
+              5052543.661093749
+            ],
+            [
+              300367.0453124996,
+              5052515.1115625
+            ],
+            [
+              300300.3021874996,
+              5052557.05640625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 73,
+        "Text_": "LUCIE-BRUNEAU",
+        "Index": "0798-060",
+        "NomArrond": "Anjou",
+        "RueN": "avenue Marie-Lajoie",
+        "RueS": "avenue Giraud",
+        "RueE": "boulevard des Galeries-D'Anjou",
+        "RueO": "rue du Champ-d'Eau",
+        "N_Jardinet": 78,
+        "Banlieu": null,
+        "SHAPE_Leng": 214.241188959,
+        "SHAPE_Area": 2086.62471782,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298328.24656249955,
+              5051493.7184375
+            ],
+            [
+              298344.55734375026,
+              5051483.62140625
+            ],
+            [
+              298336.12875000015,
+              5051468.8375
+            ],
+            [
+              298343.76437500026,
+              5051463.45140625
+            ],
+            [
+              298314.0493750004,
+              5051413.8590625
+            ],
+            [
+              298293.0839062501,
+              5051425.66234375
+            ],
+            [
+              298292.0646874998,
+              5051423.81828125
+            ],
+            [
+              298286.8078124998,
+              5051426.90671875
+            ],
+            [
+              298328.24656249955,
+              5051493.7184375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 74,
+        "Text_": "LES POUCES VERTS DE VERDUN",
+        "Index": "0798-061",
+        "NomArrond": "Verdun",
+        "RueN": "boulevard LaSalle",
+        "RueS": "fleuve Saint-Laurent",
+        "RueE": "avenue Desmarchais",
+        "RueO": "rue Osborne",
+        "N_Jardinet": 75,
+        "Banlieu": null,
+        "SHAPE_Leng": 371.168930412,
+        "SHAPE_Area": 4174.21216135,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                299655.28390625026,
+                5034637.83234375
+              ],
+              [
+                299639.53531249985,
+                5034602.3940625
+              ],
+              [
+                299574.4581249999,
+                5034631.51140625
+              ],
+              [
+                299589.65234375,
+                5034666.59015625
+              ],
+              [
+                299655.28390625026,
+                5034637.83234375
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                299713.5809375001,
+                5034770.075312501
+              ],
+              [
+                299699.7179687498,
+                5034739.012812501
+              ],
+              [
+                299663.51499999966,
+                5034755.210156251
+              ],
+              [
+                299678.9584374996,
+                5034789.6625
+              ],
+              [
+                299713.5809375001,
+                5034770.075312501
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 75,
+        "Text_": "JARDINS DE L'HÔPITAL DOUGLAS",
+        "Index": "0798-062",
+        "NomArrond": "Verdun",
+        "RueN": "Hôpital Douglas",
+        "RueS": "boulevard LaSalle",
+        "RueE": "rue Stephens",
+        "RueO": "rue Leclerc",
+        "N_Jardinet": 180,
+        "Banlieu": null,
+        "SHAPE_Leng": 364.608397978,
+        "SHAPE_Area": 7141.86408976,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              298540.8417187501,
+              5033386.7034375
+            ],
+            [
+              298509.54875,
+              5033338.193125
+            ],
+            [
+              298488.80593749974,
+              5033340.91
+            ],
+            [
+              298475.3726562504,
+              5033341.39640625
+            ],
+            [
+              298460.93765624985,
+              5033339.557656251
+            ],
+            [
+              298460.5270312503,
+              5033343.198437501
+            ],
+            [
+              298400.283125,
+              5033354.33546875
+            ],
+            [
+              298414.1078124996,
+              5033415.805937501
+            ],
+            [
+              298540.8417187501,
+              5033386.7034375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 76,
+        "Text_": "MONTRÉAL-NORD",
+        "Index": "0798-063",
+        "NomArrond": "Montréal-Nord",
+        "RueN": "boulevard Gouin",
+        "RueS": "boulevard Henri-Bourrassa",
+        "RueE": "avenue Saint-Julien",
+        "RueO": "Pont Pie-IX",
+        "N_Jardinet": 131,
+        "Banlieu": null,
+        "SHAPE_Leng": 329.666936089,
+        "SHAPE_Area": 3736.26356713,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              293572.70968750026,
+              5050882.3690625
+            ],
+            [
+              293625.7368750004,
+              5050810.7090625
+            ],
+            [
+              293642.77796875034,
+              5050822.524687501
+            ],
+            [
+              293663.73390625045,
+              5050792.946093749
+            ],
+            [
+              293648.0359375002,
+              5050781.753281251
+            ],
+            [
+              293645.8148437496,
+              5050780.56046875
+            ],
+            [
+              293638.7570312498,
+              5050777.97421875
+            ],
+            [
+              293631.5418750001,
+              5050776.78359375
+            ],
+            [
+              293625.57406250015,
+              5050777.90078125
+            ],
+            [
+              293618.94921875,
+              5050782.3359375
+            ],
+            [
+              293612.3426562501,
+              5050788.280625
+            ],
+            [
+              293605.39390624966,
+              5050794.7521875
+            ],
+            [
+              293552.9026562497,
+              5050867.509062501
+            ],
+            [
+              293572.70968750026,
+              5050882.3690625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 77,
+        "Text_": "NOËL-NORD",
+        "Index": "0798-064",
+        "NomArrond": "Saint-Laurent",
+        "RueN": "rue Baker",
+        "RueS": "voie ferrée",
+        "RueE": "boulevard Toupin",
+        "RueO": "avenue du Beau-Bois",
+        "N_Jardinet": 25,
+        "Banlieu": null,
+        "SHAPE_Leng": 135.858934679,
+        "SHAPE_Area": 1061.40212327,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              287061.0014062496,
+              5041958.60875
+            ],
+            [
+              287077.5801562499,
+              5041925.9359375
+            ],
+            [
+              287052.4659374999,
+              5041912.438281249
+            ],
+            [
+              287044.3223437499,
+              5041928.6584375
+            ],
+            [
+              287042.4140625,
+              5041927.700312501
+            ],
+            [
+              287040.43374999985,
+              5041931.6157812495
+            ],
+            [
+              287042.8312499998,
+              5041932.469843751
+            ],
+            [
+              287035.9371875003,
+              5041946.54921875
+            ],
+            [
+              287061.0014062496,
+              5041958.60875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 78,
+        "Text_": "HARTENSTEIN",
+        "Index": "0798-065",
+        "NomArrond": "Saint-Laurent",
+        "RueN": "rue Poirier",
+        "RueS": "rue Tassé",
+        "RueE": "rue Décarie",
+        "RueO": "rue Millar",
+        "N_Jardinet": 23,
+        "Banlieu": null,
+        "SHAPE_Leng": 102.93188033,
+        "SHAPE_Area": 555.556469783,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              289787.78843749966,
+              5042217.5190625
+            ],
+            [
+              289813.78140624985,
+              5042194.450156249
+            ],
+            [
+              289789.95187500026,
+              5042179.93546875
+            ],
+            [
+              289783.1425,
+              5042213.1274999995
+            ],
+            [
+              289787.78843749966,
+              5042217.5190625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 79,
+        "Text_": "ALEXIS-NIHON",
+        "Index": "0798-066",
+        "NomArrond": "Saint-Laurent",
+        "RueN": "rue Nantel",
+        "RueS": "rue Badeaux",
+        "RueE": "rue Bertrand",
+        "RueO": "carré Stuart",
+        "N_Jardinet": 28,
+        "Banlieu": null,
+        "SHAPE_Leng": 131.999689065,
+        "SHAPE_Area": 1083.56862685,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              289849.4824999999,
+              5039714.654375
+            ],
+            [
+              289883.01046875026,
+              5039725.3575
+            ],
+            [
+              289893.0945312502,
+              5039696.571093749
+            ],
+            [
+              289859.5348437503,
+              5039685.40015625
+            ],
+            [
+              289849.4824999999,
+              5039714.654375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 80,
+        "Text_": "SUPER JARDIN",
+        "Index": "0798-067",
+        "NomArrond": "Saint-Laurent",
+        "RueN": "boulevard de la Côte-Vertu",
+        "RueS": "voie ferrée",
+        "RueE": "boulevard Montpellier",
+        "RueO": "avenue Sainte-Croix",
+        "N_Jardinet": 40,
+        "Banlieu": null,
+        "SHAPE_Leng": 141.127502885,
+        "SHAPE_Area": 1118.11320936,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              291536.02406250034,
+              5041869.01203125
+            ],
+            [
+              291564.72171874996,
+              5041859.7553125005
+            ],
+            [
+              291549.6576562496,
+              5041826.5425
+            ],
+            [
+              291527.20265625045,
+              5041833.344687499
+            ],
+            [
+              291525.4684375003,
+              5041829.42921875
+            ],
+            [
+              291519.703125,
+              5041832.0075
+            ],
+            [
+              291536.02406250034,
+              5041869.01203125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 81,
+        "Text_": "SAINT-LAURENT",
+        "Index": "0798-068",
+        "NomArrond": "Saint-Laurent",
+        "RueN": "croissant du Ruisseau",
+        "RueS": "rue Poirier",
+        "RueE": "boulevard Henri-Bourrassa",
+        "RueO": "rue Dutrisac",
+        "N_Jardinet": 42,
+        "Banlieu": null,
+        "SHAPE_Leng": 125.665596386,
+        "SHAPE_Area": 783.104156493,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              290032.21781249996,
+              5043033.0665625
+            ],
+            [
+              290045.08859375026,
+              5043021.25578125
+            ],
+            [
+              290014.7201562496,
+              5042986.5659375
+            ],
+            [
+              290002.91531249974,
+              5042998.688437499
+            ],
+            [
+              290032.21781249996,
+              5043033.0665625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 82,
+        "Text_": "JARDIN CARDINAL",
+        "Index": "0798-069",
+        "NomArrond": "Saint-Laurent",
+        "RueN": "rue Deguire",
+        "RueS": "rue Tassé",
+        "RueE": "rue Cardinal",
+        "RueO": "rue Crevier",
+        "N_Jardinet": 32,
+        "Banlieu": null,
+        "SHAPE_Leng": 166.712955263,
+        "SHAPE_Area": 1645.18515204,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              289866.9640624998,
+              5041865.647187499
+            ],
+            [
+              289905.38015624974,
+              5041831.2515625
+            ],
+            [
+              289883.54203124996,
+              5041807.69953125
+            ],
+            [
+              289845.60562499985,
+              5041841.71265625
+            ],
+            [
+              289866.9640624998,
+              5041865.647187499
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 83,
+        "Text_": "PIERRE-ÉLLIOTT-TRUDEAU",
+        "Index": "0798-070",
+        "NomArrond": "Outremont",
+        "RueN": "voie ferrée",
+        "RueS": "avenue Ducharme",
+        "RueE": "avenue Wiseman",
+        "RueO": "999 avenue McEachran",
+        "N_Jardinet": 58,
+        "Banlieu": null,
+        "SHAPE_Leng": 169.958304924,
+        "SHAPE_Area": 1291.83045978,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              295464.3145312499,
+              5042337.553125
+            ],
+            [
+              295458.0724999998,
+              5042327.7209375
+            ],
+            [
+              295392.9115624996,
+              5042345.00984375
+            ],
+            [
+              295413.23453124985,
+              5042368.58765625
+            ],
+            [
+              295464.3145312499,
+              5042337.553125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 84,
+        "Text_": "DES RAPIDES",
+        "Index": "0798-071",
+        "NomArrond": "LaSalle",
+        "RueN": "canal de l'Aqueduc",
+        "RueS": "69e avenue",
+        "RueE": "rue Beyries",
+        "RueO": "boulevard LaSalle",
+        "N_Jardinet": 143,
+        "Banlieu": null,
+        "SHAPE_Leng": 820.616152589,
+        "SHAPE_Area": 17667.9374105,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294677.0721875001,
+              5030958.300625
+            ],
+            [
+              294670.90109375026,
+              5030943.73
+            ],
+            [
+              294692.60062499996,
+              5030933.738125
+            ],
+            [
+              294688.2364062499,
+              5030905.975312499
+            ],
+            [
+              294658.3426562501,
+              5030823.18390625
+            ],
+            [
+              294673.5717187496,
+              5030757.4425
+            ],
+            [
+              294695.2523437496,
+              5030737.72046875
+            ],
+            [
+              294689.9398437496,
+              5030680.1878125
+            ],
+            [
+              294614.2123437496,
+              5030692.6978124995
+            ],
+            [
+              294610.93625000026,
+              5030673.669375
+            ],
+            [
+              294566.1945312498,
+              5030680.105625
+            ],
+            [
+              294604.4664062504,
+              5030797.49171875
+            ],
+            [
+              294635.8415625002,
+              5030799.276093749
+            ],
+            [
+              294632.2859375002,
+              5030822.31828125
+            ],
+            [
+              294610.6409374997,
+              5030820.515
+            ],
+            [
+              294660.5254687499,
+              5030963.6109375
+            ],
+            [
+              294668.24875000026,
+              5030960.17609375
+            ],
+            [
+              294677.0721875001,
+              5030958.300625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 85,
+        "Text_": "CHARLES-NAGUY",
+        "Index": "0798-072",
+        "NomArrond": "LaSalle",
+        "RueN": "rue Maria",
+        "RueS": "rue Stinson",
+        "RueE": "rue Wanklyn",
+        "RueO": "rue Airlle",
+        "N_Jardinet": 213,
+        "Banlieu": null,
+        "SHAPE_Leng": 792.94930634,
+        "SHAPE_Area": 16964.7002243,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292842.8039062498,
+              5032081.444531251
+            ],
+            [
+              292756.34781249985,
+              5031813.264843751
+            ],
+            [
+              292725.2054687496,
+              5031821.616875
+            ],
+            [
+              292751.8070312496,
+              5031910.90390625
+            ],
+            [
+              292672.60671874974,
+              5031936.054375
+            ],
+            [
+              292686.8107812498,
+              5031978.426875
+            ],
+            [
+              292720.3234374998,
+              5031968.18515625
+            ],
+            [
+              292742.1171875,
+              5032044.634062501
+            ],
+            [
+              292795.13999999966,
+              5032031.63109375
+            ],
+            [
+              292814.03187500034,
+              5032087.90671875
+            ],
+            [
+              292842.8039062498,
+              5032081.444531251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 86,
+        "Text_": "LANTHIER/SAINTE-ANNE",
+        "Index": "0798-073",
+        "NomArrond": "Pointe-Claire",
+        "RueN": "avenue Lanthier",
+        "RueS": "chemin du Bord-du-Lac-Lakeshore",
+        "RueE": "avenue Lourdes",
+        "RueO": "avenue Sainte-Anne",
+        "N_Jardinet": 16,
+        "Banlieu": "1",
+        "SHAPE_Leng": 112.987486396,
+        "SHAPE_Area": 627.058374947,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              279291.55453125015,
+              5032325.9434375
+            ],
+            [
+              279302.4715625001,
+              5032285.85125
+            ],
+            [
+              279287.87015624996,
+              5032281.843125
+            ],
+            [
+              279277.0078125,
+              5032321.44953125
+            ],
+            [
+              279291.55453125015,
+              5032325.9434375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 87,
+        "Text_": "VALOIS",
+        "Index": "0798-074",
+        "NomArrond": "Pointe-Claire",
+        "RueN": "avenue Belmont",
+        "RueS": "avenue Donegani",
+        "RueE": "avenue de la Baie-de-Valois",
+        "RueO": "avenue Broadview",
+        "N_Jardinet": 32,
+        "Banlieu": "1",
+        "SHAPE_Leng": 170.650221288,
+        "SHAPE_Area": 1214.6570492,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              281808.82468749955,
+              5034542.824375
+            ],
+            [
+              281826.0460937498,
+              5034477.353125
+            ],
+            [
+              281808.7598437499,
+              5034473.28171875
+            ],
+            [
+              281791.1696875002,
+              5034537.747031249
+            ],
+            [
+              281808.82468749955,
+              5034542.824375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 88,
+        "Text_": "KILDARE/KELLERT",
+        "Index": "0798-075",
+        "NomArrond": "Côte-Saint-Luc",
+        "RueN": "rue Norwalk",
+        "RueS": "chemin Kildare",
+        "RueE": "avenue Kellert",
+        "RueO": "avenue Shalom",
+        "N_Jardinet": 50,
+        "Banlieu": "1",
+        "SHAPE_Leng": 235.85364275,
+        "SHAPE_Area": 2832.48592941,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              291981.85031250026,
+              5037044.026249999
+            ],
+            [
+              291962.78031249996,
+              5037053.2946875
+            ],
+            [
+              291959.3259375002,
+              5037047.19546875
+            ],
+            [
+              291929.85109375045,
+              5037063.35109375
+            ],
+            [
+              291937.0525000002,
+              5037076.92625
+            ],
+            [
+              291946.6551562501,
+              5037072.18765625
+            ],
+            [
+              291969.71968750004,
+              5037113.86109375
+            ],
+            [
+              292008.73500000034,
+              5037093.51953125
+            ],
+            [
+              291981.85031250026,
+              5037044.026249999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 89,
+        "Text_": "THORNCREST/LYAL",
+        "Index": "0798-076",
+        "NomArrond": "Dorval",
+        "RueN": "place Lyal",
+        "RueS": "rue Utilités publiques",
+        "RueE": "avenue Thorncrest",
+        "RueO": "boulevard Pine beach",
+        "N_Jardinet": 40,
+        "Banlieu": "1",
+        "SHAPE_Leng": 207.567640242,
+        "SHAPE_Area": 2131.70219224,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              284113.72984374966,
+              5035239.5721875
+            ],
+            [
+              284040.4593749996,
+              5035220.6459375005
+            ],
+            [
+              284032.9314062502,
+              5035248.759375
+            ],
+            [
+              284106.4015624998,
+              5035265.91390625
+            ],
+            [
+              284113.72984374966,
+              5035239.5721875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 90,
+        "Text_": "BRITTANY/AINSLEY",
+        "Index": "0798-077",
+        "NomArrond": "Mont-Royal",
+        "RueN": "chemin de la Côte-de-Liesse",
+        "RueS": "avenue Brittany",
+        "RueE": "chemin Rockland",
+        "RueO": "boulevard Laird",
+        "N_Jardinet": 48,
+        "Banlieu": "1",
+        "SHAPE_Leng": 285.539693758,
+        "SHAPE_Area": 5044.11023164,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              293031.89468749985,
+              5042964.1409375
+            ],
+            [
+              293090.88296874985,
+              5042939.1576562505
+            ],
+            [
+              293061.7595312502,
+              5042866.789843749
+            ],
+            [
+              293002.0642187502,
+              5042890.88625
+            ],
+            [
+              293031.89468749985,
+              5042964.1409375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 91,
+        "Text_": "HALLOWELL",
+        "Index": "0798-078",
+        "NomArrond": "Westmount",
+        "RueN": "boulevard Dorchester",
+        "RueS": "voie ferrée/autoroute 720",
+        "RueE": "rue Hallowell",
+        "RueO": "rue Hillside",
+        "N_Jardinet": 26,
+        "Banlieu": "1",
+        "SHAPE_Leng": 83.2880626793,
+        "SHAPE_Area": 346.717209424,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              297887.7435937496,
+              5038202.30671875
+            ],
+            [
+              297884.4162499998,
+              5038197.461874999
+            ],
+            [
+              297880.61656249966,
+              5038197.599375
+            ],
+            [
+              297876.75828124955,
+              5038197.462187501
+            ],
+            [
+              297872.0671875002,
+              5038196.784218751
+            ],
+            [
+              297868.0365624996,
+              5038196.061406249
+            ],
+            [
+              297862.83999999985,
+              5038194.581406251
+            ],
+            [
+              297858.7756249998,
+              5038192.573437501
+            ],
+            [
+              297854.49671875034,
+              5038195.63671875
+            ],
+            [
+              297870.7921874998,
+              5038214.42953125
+            ],
+            [
+              297887.7435937496,
+              5038202.30671875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 92,
+        "Text_": "HILLSIDE",
+        "Index": "0798-079",
+        "NomArrond": "Westmount",
+        "RueN": "rue sainte-Catherine",
+        "RueS": "voie ferrée/autoroute 720",
+        "RueE": "rue Hallowell",
+        "RueO": "rue Hillside",
+        "N_Jardinet": 62,
+        "Banlieu": "1",
+        "SHAPE_Leng": 134.011324649,
+        "SHAPE_Area": 828.827147567,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              297775.2401562501,
+              5038100.9985937495
+            ],
+            [
+              297780.8643749999,
+              5038096.58125
+            ],
+            [
+              297778.26109374966,
+              5038093.31609375
+            ],
+            [
+              297777.90625,
+              5038088.55859375
+            ],
+            [
+              297777.79031249974,
+              5038084.645312499
+            ],
+            [
+              297777.9514062498,
+              5038080.911875
+            ],
+            [
+              297778.4271874996,
+              5038076.6939062495
+            ],
+            [
+              297779.453125,
+              5038072.537812499
+            ],
+            [
+              297781.3851562496,
+              5038067.592656249
+            ],
+            [
+              297783.98874999955,
+              5038063.280312501
+            ],
+            [
+              297787.2046875004,
+              5038058.479843751
+            ],
+            [
+              297780.8070312496,
+              5038049.994999999
+            ],
+            [
+              297750.98312500026,
+              5038071.369843749
+            ],
+            [
+              297775.2401562501,
+              5038100.9985937495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 93,
+        "Text_": "SAINTE-ANNE-DE-BELLEVUE",
+        "Index": "0798-080",
+        "NomArrond": "Sainte-Anne-de-Bellevue",
+        "RueN": "rue Grier",
+        "RueS": "rue Sainte-Anne",
+        "RueE": "rue du Pacifique",
+        "RueO": "rue saint-Charles",
+        "N_Jardinet": 24,
+        "Banlieu": "1",
+        "SHAPE_Leng": 83.0298057492,
+        "SHAPE_Area": 426.043242121,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              269134.87437499966,
+              5029829.922968751
+            ],
+            [
+              269149.31937499996,
+              5029813.2171875
+            ],
+            [
+              269131.14515625034,
+              5029802.8165625
+            ],
+            [
+              269118.7874999996,
+              5029819.78078125
+            ],
+            [
+              269134.87437499966,
+              5029829.922968751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 94,
+        "Text_": "JARDIN RICHELIEU",
+        "Index": null,
+        "NomArrond": "Rivière-des-PrairiesPointe-aux-Trembles",
+        "RueN": "rue Forsyth",
+        "RueS": "rue De Montigny",
+        "RueE": "42e avenue",
+        "RueO": "40e avenue",
+        "N_Jardinet": 44,
+        "Banlieu": null,
+        "SHAPE_Leng": 226.24323196,
+        "SHAPE_Area": 1630.21218965,
+        "Nbacs": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              304456.69968749955,
+              5058247.202343751
+            ],
+            [
+              304475.30921875034,
+              5058243.56984375
+            ],
+            [
+              304464.73093749955,
+              5058196.78625
+            ],
+            [
+              304462.2659374997,
+              5058197.403593751
+            ],
+            [
+              304452.2670312496,
+              5058151.88234375
+            ],
+            [
+              304437.2321875002,
+              5058154.9126562495
+            ],
+            [
+              304444.4832812501,
+              5058184.789843749
+            ],
+            [
+              304443.32359374966,
+              5058188.831875
+            ],
+            [
+              304456.69968749955,
+              5058247.202343751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 95,
+        "Text_": "ANDRÉ-LAURENDEAU",
+        "Index": null,
+        "NomArrond": "Anjou",
+        "RueN": "avenue André-Laurendeau",
+        "RueS": "boulevard Métropolitain",
+        "RueE": "boulevard Louis-H-La Fontaine",
+        "RueO": "boulevard du Haut-Anjou",
+        "N_Jardinet": 62,
+        "Banlieu": null,
+        "SHAPE_Leng": 305.559679319,
+        "SHAPE_Area": 2857.66524164,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              299296.0951562496,
+              5051563.40671875
+            ],
+            [
+              299328.9631249998,
+              5051542.9234375
+            ],
+            [
+              299325.51187499985,
+              5051537.178906251
+            ],
+            [
+              299364.7442187499,
+              5051512.91015625
+            ],
+            [
+              299366.53140624985,
+              5051515.8225
+            ],
+            [
+              299396.7435937496,
+              5051497.08171875
+            ],
+            [
+              299385.953125,
+              5051475.194375
+            ],
+            [
+              299377.49703125004,
+              5051480.302031251
+            ],
+            [
+              299292.84499999974,
+              5051532.3149999995
+            ],
+            [
+              299296.77859374974,
+              5051538.7184375
+            ],
+            [
+              299285.50343750045,
+              5051545.7521875
+            ],
+            [
+              299296.0951562496,
+              5051563.40671875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 96,
+        "Text_": "SPALDING",
+        "Index": null,
+        "NomArrond": "Anjou",
+        "RueN": "boulevard Wilfrid-Pelletier",
+        "RueS": "rue Spalding",
+        "RueE": "Place Spalding",
+        "RueO": "avenue Goncourt",
+        "N_Jardinet": 77,
+        "Banlieu": null,
+        "SHAPE_Leng": 207.597580692,
+        "SHAPE_Area": 2552.28305855,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300653.3121875003,
+              5051490.6328125
+            ],
+            [
+              300703.3071875004,
+              5051482.106406249
+            ],
+            [
+              300695.9299999997,
+              5051445.75234375
+            ],
+            [
+              300688.1626562504,
+              5051447.63671875
+            ],
+            [
+              300683.6012500003,
+              5051429.4703125
+            ],
+            [
+              300644.0948437499,
+              5051439.034531251
+            ],
+            [
+              300653.3121875003,
+              5051490.6328125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 97,
+        "Text_": "DES ROSERAIES",
+        "Index": null,
+        "NomArrond": "Anjou",
+        "RueN": "avenue des Jalesnes",
+        "RueS": "avenue du Bocage",
+        "RueE": "boulevard des Galeries D'Anjou",
+        "RueO": "Cimetière Repos St-François-d'Assise",
+        "N_Jardinet": 48,
+        "Banlieu": null,
+        "SHAPE_Leng": 167.501480853,
+        "SHAPE_Area": 1374.52261547,
+        "Nbacs": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300562.6271874998,
+              5050304.320625
+            ],
+            [
+              300568.15968750045,
+              5050301.714062501
+            ],
+            [
+              300572.03171874955,
+              5050309.84015625
+            ],
+            [
+              300576.47984374966,
+              5050307.84875
+            ],
+            [
+              300582.6160937501,
+              5050291.783906249
+            ],
+            [
+              300561.0549999997,
+              5050244.1925
+            ],
+            [
+              300539.8067187499,
+              5050255.2603124995
+            ],
+            [
+              300562.6271874998,
+              5050304.320625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 98,
+        "Text_": "NOTRE-DAME",
+        "Index": null,
+        "NomArrond": "Anjou",
+        "RueN": "place de l'Église",
+        "RueS": "avenue Chénier",
+        "RueE": "avenue de l'Aréna",
+        "RueO": "rue Louis-Dumouchel",
+        "N_Jardinet": 98,
+        "Banlieu": null,
+        "SHAPE_Leng": 295.870276061,
+        "SHAPE_Area": 3665.04974671,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              301448.16921874974,
+              5051369.901875
+            ],
+            [
+              301505.03640624974,
+              5051344.972031251
+            ],
+            [
+              301470.7510937499,
+              5051264.40859375
+            ],
+            [
+              301435.7410937501,
+              5051279.35109375
+            ],
+            [
+              301436.4601562498,
+              5051281.1303125005
+            ],
+            [
+              301439.5578124998,
+              5051281.26734375
+            ],
+            [
+              301443.19656249974,
+              5051282.880625
+            ],
+            [
+              301445.18796874955,
+              5051285.2984375
+            ],
+            [
+              301447.0134375002,
+              5051284.796875
+            ],
+            [
+              301460.24703125004,
+              5051315.510468749
+            ],
+            [
+              301456.37875000015,
+              5051316.56
+            ],
+            [
+              301456.03109375015,
+              5051320.270781251
+            ],
+            [
+              301454.0359375002,
+              5051324.78625
+            ],
+            [
+              301451.13156250026,
+              5051329.8359375
+            ],
+            [
+              301444.9992187498,
+              5051338.412968749
+            ],
+            [
+              301448.16921874974,
+              5051369.901875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 99,
+        "Text_": "GÉRARD-LEGAULT",
+        "Index": null,
+        "NomArrond": "Ahuntsic-Cartierville",
+        "RueN": "rue Dudemaine",
+        "RueS": "vie ferrée",
+        "RueE": "avenue Robert-Giffard",
+        "RueO": "rue Grenet",
+        "N_Jardinet": 118,
+        "Banlieu": null,
+        "SHAPE_Leng": 347.951810286,
+        "SHAPE_Area": 4406.44484627,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              288753.62406249996,
+              5042812.1365625
+            ],
+            [
+              288779.00906249974,
+              5042789.9712499995
+            ],
+            [
+              288646.9154687496,
+              5042722.87296875
+            ],
+            [
+              288633.27359374985,
+              5042750.649374999
+            ],
+            [
+              288753.62406249996,
+              5042812.1365625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 100,
+        "Text_": "JARDIN WILFRID-VINCENT",
+        "Index": null,
+        "NomArrond": "Lachine",
+        "RueN": "rue Desrosiers",
+        "RueS": "rue des Érables",
+        "RueE": "avenue Windsor",
+        "RueO": "avenue Stanley",
+        "N_Jardinet": 30,
+        "Banlieu": null,
+        "SHAPE_Leng": 71.6066913752,
+        "SHAPE_Area": 238.909928177,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              292793.3537499998,
+              5033793.120312501
+            ],
+            [
+              292797.86203125026,
+              5033800.6928125005
+            ],
+            [
+              292821.4781250004,
+              5033787.887812501
+            ],
+            [
+              292817.0153125003,
+              5033780.139843751
+            ],
+            [
+              292793.3537499998,
+              5033793.120312501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 101,
+        "Text_": "JARDIN SHERBROOKE",
+        "Index": null,
+        "NomArrond": "Lachine",
+        "RueN": "rue Sherbrooke",
+        "RueS": "rue Provost",
+        "RueE": "4e avenue",
+        "RueO": "5e avenue",
+        "N_Jardinet": 30,
+        "Banlieu": null,
+        "SHAPE_Leng": 139.740843284,
+        "SHAPE_Area": 953.550825591,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              291650.80015624966,
+              5033898.51390625
+            ],
+            [
+              291672.8301562499,
+              5033898.2485937495
+            ],
+            [
+              291672.96875,
+              5033850.500624999
+            ],
+            [
+              291654.90578125045,
+              5033850.56203125
+            ],
+            [
+              291654.7882812498,
+              5033875.9865625
+            ],
+            [
+              291650.8849999998,
+              5033875.944375
+            ],
+            [
+              291650.80015624966,
+              5033898.51390625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 102,
+        "Text_": "REMEMBRANCE",
+        "Index": null,
+        "NomArrond": "Lachine",
+        "RueN": "rue Remembrance",
+        "RueS": "rue Victoria",
+        "RueE": "28e avenue",
+        "RueO": "32e avenue",
+        "N_Jardinet": 210,
+        "Banlieu": null,
+        "SHAPE_Leng": 394.338862187,
+        "SHAPE_Area": 5068.50080541,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              289932.3004687503,
+              5033085.162812499
+            ],
+            [
+              289932.83468750026,
+              5033078.049687499
+            ],
+            [
+              289934.00875,
+              5033071.484375
+            ],
+            [
+              289941.4282812504,
+              5032998.000624999
+            ],
+            [
+              289979.1420312496,
+              5033000.84875
+            ],
+            [
+              289984.29343749955,
+              5032992.557812501
+            ],
+            [
+              289990.9704687502,
+              5032992.11953125
+            ],
+            [
+              289992.55796874966,
+              5032960.89875
+            ],
+            [
+              289900.19828124996,
+              5032999.850625
+            ],
+            [
+              289892.06546874996,
+              5033079.7465625
+            ],
+            [
+              289932.3004687503,
+              5033085.162812499
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 104,
+        "Text_": "MONSABRÉ",
+        "Index": null,
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "rue de Toulouse",
+        "RueS": "avenue Souligny",
+        "RueE": "rue Monsabré",
+        "RueO": "rue Dickson",
+        "N_Jardinet": 41,
+        "Banlieu": null,
+        "SHAPE_Leng": 311.056785954,
+        "SHAPE_Area": 5244.41050331,
+        "Nbacs": 41
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              301999.3132812502,
+              5047712.01765625
+            ],
+            [
+              302019.9307812499,
+              5047755.578906249
+            ],
+            [
+              302021.57421875,
+              5047756.1860937495
+            ],
+            [
+              302070.22593749966,
+              5047732.8925
+            ],
+            [
+              302074.2599999998,
+              5047730.122031249
+            ],
+            [
+              302079.9589062501,
+              5047726.0493749995
+            ],
+            [
+              302103.3256249996,
+              5047698.11890625
+            ],
+            [
+              302107.28062499966,
+              5047693.850781251
+            ],
+            [
+              302110.79234374966,
+              5047690.87265625
+            ],
+            [
+              302113.32468749955,
+              5047689.098906251
+            ],
+            [
+              302101.04390625004,
+              5047661.2828125
+            ],
+            [
+              301999.5270312503,
+              5047709.46140625
+            ],
+            [
+              301999.3132812502,
+              5047712.01765625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 176,
+        "Text_": "LES JARDINS DE L'INSTITUT",
+        "Index": null,
+        "NomArrond": "MercierHochelaga-Maisonneuve",
+        "RueN": "Rue Marseille",
+        "RueS": null,
+        "RueE": null,
+        "RueO": "rue du Trianon",
+        "N_Jardinet": 59,
+        "Banlieu": null,
+        "SHAPE_Leng": 261.281634581,
+        "SHAPE_Area": 3619.67910084,
+        "Nbacs": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              302242.8973437501,
+              5049954.210156251
+            ],
+            [
+              302159.07718749996,
+              5049992.41609375
+            ],
+            [
+              302175.1637500003,
+              5050026.49453125
+            ],
+            [
+              302258.13734375034,
+              5049993.5803125
+            ],
+            [
+              302242.8973437501,
+              5049954.210156251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 178,
+        "Text_": "PRÉ-CARRÉ",
+        "Index": null,
+        "NomArrond": "Rosemont La Petite-Patrie",
+        "RueN": null,
+        "RueS": "rue Sherbrooke Est",
+        "RueE": "boulevard de l'Assomption",
+        "RueO": "rue Viau",
+        "N_Jardinet": 141,
+        "Banlieu": null,
+        "SHAPE_Leng": 307.762097061,
+        "SHAPE_Area": 4977.23622615,
+        "Nbacs": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              300464.9398437496,
+              5047646.264531249
+            ],
+            [
+              300444.93734375015,
+              5047655.63078125
+            ],
+            [
+              300450.1760937497,
+              5047668.330781249
+            ],
+            [
+              300411.1235937504,
+              5047685.317187499
+            ],
+            [
+              300405.09109374974,
+              5047688.809687501
+            ],
+            [
+              300402.7098437501,
+              5047692.3021875005
+            ],
+            [
+              300401.4398437496,
+              5047697.858437501
+            ],
+            [
+              300402.2335937498,
+              5047703.573437501
+            ],
+            [
+              300406.5198437497,
+              5047709.4471875
+            ],
+            [
+              300410.96484375,
+              5047711.1934375
+            ],
+            [
+              300415.7273437502,
+              5047711.6696875
+            ],
+            [
+              300419.85484374966,
+              5047709.9234375
+            ],
+            [
+              300434.9360937504,
+              5047741.8321875
+            ],
+            [
+              300503.51625000034,
+              5047709.9234375
+            ],
+            [
+              300464.9398437496,
+              5047646.264531249
+            ]
+          ]
+        ]
       }
     }
   ]
